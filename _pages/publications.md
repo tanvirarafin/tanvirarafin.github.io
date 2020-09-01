@@ -12,7 +12,8 @@ To appear in GLSVLSI 2020
 
 2. [LPN-based Device Authentication Using Resistive Memory](https://tanvirarafin.github.io/files/p11.pdf)  
 MT Arafin, H Shen, MM Tehranipoor, G Qu  
-Proceedings of the 2019 on Great Lakes Symposium on VLSI, 9-14
+Proceedings of the 2019 on Great Lakes Symposium on VLSI, 9-14 (Acceptance
+Rate:29%)  
 
 3. [Probing Attacks on Physical Layer Key Agreement for Automotive Controller Area Networks](https://tanvirarafin.github.io/files/p10.pdf)  
 S Jain, Q Wang, MT Arafin, J Guajardo  
