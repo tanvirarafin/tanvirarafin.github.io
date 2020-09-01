@@ -14,13 +14,14 @@ Dr. Arafin’s research focuses on hardware-based authentication, memory systems
 
 Dr. Arafin is an avid traveler with a lot of stories to share.
 
-##Recent News
+## Recent News
 
 1. One of out paper titled "Security Challenges of In-Memory Computing" has been
-   accepted at GLSVLSI 2020.
+   accepted at [GLSVLSI 2020](https://www.glsvlsi.org).
 
 2. Dr. Arafin has been invited as a TPC member for 2021 Asia and Southern
-   Pacific Design and Test Automation Conference (ASPDAC 2021).
+   Pacific Design and Test Automation Conference ([ASPDAC
+   2021](http://www.aspdac.com/aspdac2021/)).
 
-3. Dr. Arafin is participating in this years Telluride Neuromorphic Workshop! 
+3. Dr. Arafin is participating in this year's [Telluride Neuromorphic Workshop](https://sites.google.com/view/telluride2020/home)! 
    
