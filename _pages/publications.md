@@ -10,7 +10,7 @@ author_profile: true
 MT Arafin, Zhaojun Lu  
 To appear in GLSVLSI 2020
 
-2. [LPN-based Device Authentication Using Resistive Memory](https://tanvirarafin.github.io/files/p11.pdf)  
+2. [LPN-based Device Authentication Using Resistive Memory](https://tanvirarafin.github.io/files/p7.pdf)  
 MT Arafin, H Shen, MM Tehranipoor, G Qu  
 Proceedings of the 2019 on Great Lakes Symposium on VLSI, 9-14 (Acceptance
 Rate:29%)  
