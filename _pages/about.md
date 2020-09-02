@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Tanvir Arafin is an Assistant Professor at the ECE Department at Morgan State University. He is also affiliated with the Cyber-Security Assurance and Policy Center ([CAP](https://www.iotcream.com)). He received M.S., and Ph.D. degrees in Electrical and Computer Engineering from the University of Maryland, College Park in 2016 and 2018. 
+Dr. Tanvir Arafin is an Assistant Professor at the ECE Department at Morgan State University. He is also affiliated with the Cyber-Security Assurance and Policy Center ([CAP](https://www.iotcream.com)). He received M.S., and Ph.D. degrees in Electrical and Computer Engineering from the University of Maryland, College Park in 2016, and 2018. 
 
 ## Research Interest
 Dr. Arafin’s research focuses on hardware-based authentication, memory systems, and distributed neuromorphic computing. 
@@ -17,15 +17,15 @@ Dr. Arafin's work has been published in several top-tier peer-reviewed journals 
 
 ## Open Positions
 
-We have open positions for motivated graduate students to participate in research. If interested please send me an email along with your resume at mdtanvir(dot)arafin(at)morgan(dot)edu.
+We have open positions for motivated graduate students to participate in research. If interested, please send an email along with your resume to mdtanvir(dot)arafin(at)morgan(dot)edu.
 
 
 ## Recent News
 
-1. One of out paper titled "Security Challenges of In-Memory Computing" has been
+1. One of our paper titled "Security Challenges of In-Memory Computing" has been
    accepted at [GLSVLSI 2020](https://www.glsvlsi.org).
 
-2. Dr. Arafin has been invited as a TPC member for 2021 Asia and Southern
+2. Dr. Arafin has been invited as a TPC member for the 2021 Asia and Southern
    Pacific Design and Test Automation Conference ([ASPDAC
    2021](http://www.aspdac.com/aspdac2021/)).
 
