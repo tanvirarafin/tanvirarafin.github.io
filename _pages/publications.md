@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
+## Conference Papers
 
 15. [RIME: A Scalable and Energy-Efficient Processing-In-Memory Architecture for Floating-Point Operations]()  
 Zhaojun Lu, MT Arafin, Gang Qu  
@@ -14,7 +15,7 @@ Asia and South Pacific Design Automation Conference (ASP-DAC), 2021
 
 14. [Security of Neural Networks from Hardware Perspective: A Survey and Beyond]()  
 Qian Xu, MT Arafin, Gang Qu  
-Asia and South Pacific Design Automation Conference (ASP-DAC), 2021 __
+Asia and South Pacific Design Automation Conference (ASP-DAC), 2021  
 ***Invited Paper***
 
 13. [Securing Industrial Control Systems Using Physical Device Fingerprinting]()  
@@ -78,4 +79,30 @@ IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2015 (Accept
 MT Arafin, C Dunbar, G Qu, N McDonald, L Yan  
 Sixteenth International Symposium on Quality Electronic Design (ISQED), 2015      
 ***Invited Paper***
+
+## Journal Papers
+1. [Voltage Over-scaling-based Lightweight Authentication for IoT Security]()  
+J Zhang, H Su, MT Arafin, G Qu  
+IEEE Transactions on Computers, 2021.
+
+2. [Memristors for Secret Sharing-Based Lightweight Authentication](https://ieeexplore.ieee.org/abstract/document/8345331)  
+MT Arafin, G Qu  
+IEEE Transactions On Very Large Scale Integration (VLSI) Systems, 2018.
+
+3. [Approximate computing for low power and security in the internet of things](https://ieeexplore.ieee.org/abstract/document/7945174)  
+M Gao, Q Wang, MT Arafin, Y Lyu, G Qu  
+IEEE Computer, 2017.
+4. [Performance optimization for terahertz quantum cascade laser at higher temperature using genetic algorithm](https://link.springer.com/article/10.1007/s11082-012-9590-z)  
+MT Arafin, N Islam, S Roy, S Islam  
+Optical and Quantum Electronics, Springer, 2012.  
+
+
+## Book Chapters
+1. [Memristor-based Security](https://www.taylorfrancis.com/chapters/memristor-based-security-md-tanvir-arafin-gang-qu/e/10.1201/9781315265056-4?context=ubx&refId=02702493-23e6-4922-96b6-08ef0f648f00)  
+MT Arafin, G Qu
+Security Opportunities by Nano Devices and Emerging Technologies, CRC Press/ Taylor & Francis, USA , 2018.  
+
+2. [Hardware-Based Authentication Application]()  
+MT Arafin, G Qu  
+Authentication of Embedded Devices, Springer Nature, Switzerland , 2021.
 
