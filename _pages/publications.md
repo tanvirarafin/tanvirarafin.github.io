@@ -19,7 +19,7 @@ Asia and South Pacific Design Automation Conference (ASP-DAC), 2021
 ***Invited Paper***
 
 13. [Securing Industrial Control Systems Using Physical Device Fingerprinting]()  
-Tsion Yimer, MT Arafin, Kevin Kornegay 
+Tsion Yimer, MT Arafin, Kevin Kornegay  
 3rd IEEE International Symposium on Future Cyber Security Technologies (FCST 2020)
 
 
