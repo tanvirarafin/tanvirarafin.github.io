@@ -22,12 +22,17 @@ We have open positions for motivated graduate students to participate in researc
 
 ## Recent News
 
-1. One of our paper titled "Security Challenges of In-Memory Computing" has been
-   accepted at [GLSVLSI 2020](https://www.glsvlsi.org).
+5. Our paper "Attack Detection and Countermeasures for Autonomous Navigation"
+   accepted at [CISS 2021](https://ciss.jhu.edu).
+
+4. Dr. Arafin received a  Research Grant from Applied Research Laboratory for
+   Intelligence and Security.   
+
+3. One of our papers titled "Security Challenges of In-Memory Computing" has been accepted at [GLSVLSI 2020](https://www.glsvlsi.org).
 
 2. Dr. Arafin has been invited as a TPC member for the 2021 Asia and Southern
    Pacific Design and Test Automation Conference ([ASPDAC
    2021](http://www.aspdac.com/aspdac2021/)).
 
-3. Dr. Arafin is participating in this year's [Telluride Neuromorphic Workshop](https://sites.google.com/view/telluride2020/home)! 
+1. Dr. Arafin is participating in this year's [Telluride Neuromorphic Workshop](https://sites.google.com/view/telluride2020/home)! 
    
