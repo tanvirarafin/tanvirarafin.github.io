@@ -28,7 +28,7 @@ I won the [IEEE TC Featured Paper of the Month](https://www.computer.org/csdl/jo
 
 My research has been supported by funding and donations from NSF (Grant ID: [2240514](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2240514&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), NSA, MIPS, NASA-JPL, ARLIS, and Xilinx.
 
-## Open Positions
+## open positions
 
 We have **several open positions** for motivated graduate students to participate in hardware design and computer security research.
 
