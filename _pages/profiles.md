@@ -23,12 +23,20 @@ profiles:
     content: about_yanze.md
     image_circular: false # crops the image to make it circular
 
+ # crops the image to make it circular
+
   - align: right
+    image: raja.jpeg
+    content: about_raja.md
+    image_circular: false # crops the image to make it circular
+
+
+  - align: left
     image: aldur.png
     content: about_aldur.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
+  - align: right
     image: philip.png
     content: about_philip.md
     image_circular: false # crops the image to make it circular
