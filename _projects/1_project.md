@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: 
+description:
 img: assets/img/robots.png
 importance: 1
 category: work

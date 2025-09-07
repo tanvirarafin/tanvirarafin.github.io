@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
+
 I have taught the following courses at George Mason University:
 
 1. CYSE 465: Transportation Systems Design

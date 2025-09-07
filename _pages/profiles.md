@@ -1,11 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: SPIRE Lab 
+title: SPIRE Lab
 description: Current and former members of the Security, Privacy, and Reverse Engineering Lab at GMU.
 nav: true
 nav_order: 3
-
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -23,13 +22,12 @@ profiles:
     content: about_yanze.md
     image_circular: false # crops the image to make it circular
 
- # crops the image to make it circular
+  # crops the image to make it circular
 
   - align: right
     image: raja.jpeg
     content: about_raja.md
     image_circular: false # crops the image to make it circular
-
 
   - align: left
     image: aldur.png
@@ -40,7 +38,4 @@ profiles:
     image: philip.png
     content: about_philip.md
     image_circular: false # crops the image to make it circular
-    
-
 ---
-
