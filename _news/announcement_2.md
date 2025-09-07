@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Our Team Wins 2nd place in the Hardware Demo at HOST 2024!!!
-date: 2024-05-08 16:11:00-0400
-inline: false
+date: 2025-07-08 16:11:00-0400
+inline: true
 related_posts: false
 ---
 
-Glad to share that our team won 2nd place in the Hardware Demo Competition at the IEEE International Symposium on Hardware-Oriented Security and Trust (HOST). It was a great effort from Zelin Lu and Yiting (Nelly) Wang. Thanks to Prof. Gang Qu for his kind support in this work!!!
+We have won a new NSF grant titled [Collaborative Research: CyberTraining: Implementation: Small: CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false)!!!
 
