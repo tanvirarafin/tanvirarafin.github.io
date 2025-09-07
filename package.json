@@ -1,8 +1,28 @@
-"devDependencies": {
-  "prettier": "3.3.3",
-  "@shopify/prettier-plugin-liquid": "1.5.0"
-},
-"scripts": {
-  "format": "prettier . --write",
-  "format:check": "prettier . --check"
+{
+  "name": "tanvirarafin.github.io",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "purgecss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirarafin/tanvirarafin.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tanvirarafin/tanvirarafin.github.io/issues"
+  },
+  "homepage": "https://github.com/tanvirarafin/tanvirarafin.github.io#readme",
+  "private": "true",
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.5.0",
+    "prettier": "^3.3.3"
+  }
 }
