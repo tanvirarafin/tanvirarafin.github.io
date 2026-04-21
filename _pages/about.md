@@ -21,7 +21,7 @@ I am a tenure-track Assistant Professor at the [Department of Cyber Security Eng
 
 Our research explores security opportunities in **emerging computer architecture**, examines the **weaknesses in autonomous systems**, and builds hardware-derived primitives for developing **trusted computation frameworks**.
 
-Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transaction of Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), and [Asia and South Pacific Design Automation Conference (ASP-DAC)](https://www.aspdac.com/).
+Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transaction of Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), [Design and Automation Conference (DAC)](https://dac.com/2026), [Design, Automation and Test in Europe Conference](https://date26.date-conference.com/programme), and [Hardware Oriented Security and Trust Symposium](https://host.conferences.computer.org).
 
 We won the [Best Poster/Demo Award at
 ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)](https://wisec2025.gmu.edu/awards/) in 2025, the [Best Hardware Demo Award: 2nd Place at
