@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper alert: Yanze has two paper accepted at ICCD 2025 and PACT 2025!!! Congratulations Yanze!
+New paper alert: Yanze has two paper accepted at DAC 2026 and DATE 2026!!! Congratulations Yanze!
