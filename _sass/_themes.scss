@@ -5,7 +5,7 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$gmu-blackish};
+  --global-text-color: #{$black-color};
   --global-text-color-light: #{mix($gmu-blackish, $white-color, 65%)};
   --global-heading-color: #{$gmu-green};
   --global-theme-color: #{$gmu-green};
