@@ -5,8 +5,9 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$gmu-green-text};
-  --global-text-color-light: #{$gmu-green-text-light};
+  --global-text-color: #{$gmu-blackish};
+  --global-text-color-light: #{mix($gmu-blackish, $white-color, 65%)};
+  --global-heading-color: #{$gmu-green};
   --global-theme-color: #{$gmu-green};
   --global-hover-color: #{$gmu-green};
   --global-hover-text-color: #{$white-color};
@@ -70,8 +71,9 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$white-color};
   --global-text-color-light: #{$gmu-green-text-dark-mode};
-  --global-theme-color: #{$white-color};
-  --global-hover-color: #{$white-color};
+  --global-heading-color: #{$gmu-green-text-dark-mode};
+  --global-theme-color: #{$gmu-green-text-dark-mode};
+  --global-hover-color: #{$gmu-green-text-dark-mode};
   --global-hover-text-color: #{$gmu-green-dark};
   --global-footer-bg-color: #{$gmu-green-darker};
   --global-footer-text-color: #{$white-color};
