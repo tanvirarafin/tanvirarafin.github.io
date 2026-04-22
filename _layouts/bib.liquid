@@ -2,11 +2,16 @@
 ---
 <div class="row">
   {% assign venue_abbr = entry.abbr | default: '' | strip %}
-  {% if venue_abbr == '' and entry.booktitle and entry.booktitle contains '(' and entry.booktitle contains ')' %}
-    {% assign venue_abbr = entry.booktitle | split: '(' | slice: 1, 1 | first | split: ')' | first | strip %}
-  {% endif %}
-  {% if venue_abbr == '' and entry.journal and entry.journal contains '(' and entry.journal contains ')' %}
-    {% assign venue_abbr = entry.journal | split: '(' | slice: 1, 1 | first | split: ')' | first | strip %}
+  {% if venue_abbr == '' %}
+    {% assign venue_sources = entry.booktitle | append: '|||' | append: entry.journal | split: '|||' %}
+    {% for venue_source in venue_sources %}
+      {% if venue_abbr == '' and venue_source and venue_source contains '(' and venue_source contains ')' %}
+        {% assign candidate_abbr = venue_source | split: '(' | slice: 1, 1 | first | split: ')' | first | strip %}
+        {% if candidate_abbr != '' and candidate_abbr contains ' ' == false %}
+          {% assign venue_abbr = candidate_abbr %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
   {% assign show_left_badge_column = site.enable_publication_thumbnails or venue_abbr != '' %}
   {% if show_left_badge_column %}
