@@ -5,18 +5,18 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #103b2e;
-  --global-text-color-light: #4d6b5f;
-  --global-theme-color: #006633;
-  --global-hover-color: #006633;
+  --global-text-color: #{$gmu-green-text};
+  --global-text-color-light: #{$gmu-green-text-light};
+  --global-theme-color: #{$gmu-green};
+  --global-hover-color: #{$gmu-green};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #006633;
+  --global-footer-bg-color: #{$gmu-green};
   --global-footer-text-color: #{$white-color};
   --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #006633;
-  --global-divider-color: rgba(0, 102, 51, 0.2);
+  --global-distill-app-color: #{$gmu-green};
+  --global-divider-color: rgba(#{red($gmu-green)}, #{green($gmu-green)}, #{blue($gmu-green)}, 0.2);
   --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #006633;
+  --global-highlight-color: #{$gmu-green};
   --global-back-to-top-bg-color: rgba(#{red($black-color)}, #{green($black-color)}, #{blue($black-color)}, 0.4);
   --global-back-to-top-text-color: #{$white-color};
 
@@ -66,19 +66,19 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #003b2a;
+  --global-bg-color: #{$gmu-green-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$white-color};
-  --global-text-color-light: #cde0d7;
+  --global-text-color-light: #{$gmu-green-text-light-dark};
   --global-theme-color: #{$white-color};
   --global-hover-color: #{$white-color};
-  --global-hover-text-color: #003b2a;
-  --global-footer-bg-color: #00291d;
+  --global-hover-text-color: #{$gmu-green-dark};
+  --global-footer-bg-color: #{$gmu-green-darker};
   --global-footer-text-color: #{$white-color};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$white-color};
   --global-divider-color: rgba(255, 255, 255, 0.25);
-  --global-card-bg-color: #004a35;
+  --global-card-bg-color: #{$gmu-green-card};
   --global-back-to-top-bg-color: rgba(#{red($white-color)}, #{green($white-color)}, #{blue($white-color)}, 0.5);
   --global-back-to-top-text-color: #{$black-color};
 
