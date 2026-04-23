@@ -1,13 +1,26 @@
 ---
 ---
 <div class="row">
-  {% if site.enable_publication_thumbnails %}
+  {% assign venue_abbr = entry.abbr | default: '' | strip %}
+  {% if venue_abbr == '' %}
+    {% assign venue_sources = entry.booktitle | append: '|||' | append: entry.journal | split: '|||' %}
+    {% for venue_source in venue_sources %}
+      {% if venue_abbr == '' and venue_source and venue_source contains '(' and venue_source contains ')' %}
+        {% assign candidate_abbr = venue_source | split: '(' | slice: 1, 1 | first | split: ')' | first | strip %}
+        {% if candidate_abbr != '' and candidate_abbr contains ' ' == false %}
+          {% assign venue_abbr = candidate_abbr %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% assign show_left_badge_column = site.enable_publication_thumbnails or venue_abbr != '' %}
+  {% if show_left_badge_column %}
     <div class="col col-sm-2 abbr">
-      {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
+      {%- if venue_abbr != '' -%}
+        {%- if site.data.venues[venue_abbr] -%}
           {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {% if site.data.venues[venue_abbr].color != blank %}
+            {% assign venue_style = site.data.venues[venue_abbr].color | prepend: 'style="background-color:' | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
@@ -15,17 +28,17 @@
               {{ venue_style }}
             {% endif -%}
           >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
+            {% if site.data.venues[venue_abbr].url %}
+              <a href="{{site.data.venues[venue_abbr].url}}">{{ venue_abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div>{{- venue_abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100">{{ venue_abbr }}</abbr>
         {% endif %}
       {% endif %}
-      {% if entry.preview %}
+      {% if site.enable_publication_thumbnails and entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
@@ -45,7 +58,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{entry.key}}" class="{% if show_left_badge_column %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
