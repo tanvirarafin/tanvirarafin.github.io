@@ -4,7 +4,7 @@ permalink: /people/
 title: SPIRE Lab
 description: Current and former members of the Security, Privacy, and Reverse Engineering Lab at GMU.
 nav: true
-nav_order: 3
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -17,35 +17,35 @@ profiles:
       <p>322 Research Hall</p>
       <p>10401 York River Road</p>
       <p>Fairfax, VA 22030</p>
+  # --- Ph.D. Students ---
   - align: left
     image: yanze.png
     content: about_yanze.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
 
-  # crops the image to make it circular
+  - align: right
+    image: generic_person.svg
+    content: about_wangxinlei.md
+    image_circular: false
+
+  - align: left
+    image: generic_person.svg
+    content: about_max.md
+    image_circular: false
 
   - align: right
     image: raja.jpeg
     content: about_raja.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
 
+  # --- Undergraduate Students ---
   - align: left
     image: aldur.png
     content: about_aldur.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
 
   - align: right
     image: philip.png
     content: about_philip.md
-    image_circular: false # crops the image to make it circular
-
-  - align: left
-    image: 4.jpg
-    content: about_wangxinlei.md
-    image_circular: false
-
-  - align: right
-    image: 2.jpg
-    content: about_max.md
     image_circular: false
 ---
