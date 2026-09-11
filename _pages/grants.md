@@ -87,9 +87,9 @@ Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, educati
 
 | Project | Funder | Period | PI |
 |---------|--------|--------|-----|
-| CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Curricula | [NSF #2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105) | 2026–2029 | Jianli Pan (GMU) |
+| CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research | [NSF #2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105) | 2026–2029 | Jianli Pan (GMU) |
 | ANCHOR: Analog–Cyber Sensing for Secure Energy Infrastructure | 4-VA | 2026–2027 | Qiaochu Zhang (UVA) |
-| EAGLE: Empowering American Government Leadership in Cybersecurity through Education | [NSF #2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599) | 2025–2029 | Kun Sun (GMU) |
+| CyberCorps Scholarship for Service: EAGLE: Empowering American Government Leadership in Cybersecurity through Education | [NSF #2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599) | 2025–2029 | Kun Sun (GMU) |
 | CyberCorps Scholarship for Service: Secure Embedded Systems | [NSF #2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700) | 2021–2022 | Kevin Kornegay (MSU) |
 
 <style>

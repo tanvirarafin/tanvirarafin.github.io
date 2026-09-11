@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CNS: Robust Multi-Robot Systems in Dynamic Environments"
+title: "CNS: An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments"
 permalink: /grants/multirobot/
 nav: false
 ---
