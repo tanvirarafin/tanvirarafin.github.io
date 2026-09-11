@@ -58,7 +58,7 @@ nav_order: 3
     <h3><a href="/grants/cyberstar/">CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy</a></h3>
     <span class="funder-badge nsf-badge">NSF</span>
   </div>
-  <p class="grant-desc">Developing transportation cybersecurity curriculum and workforce training focused on autonomous and connected vehicle security, with hands-on laboratory exercises.</p>
+  <p class="grant-desc">Investigating cybersecurity threats in connected and autonomous transportation systems, including vehicular network attacks, intrusion detection, and secure design methods; building a shared open-source testbed and training infrastructure for automotive security research.</p>
 </div>
 <div class="grant-meta">
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false">#2519390</a> (CyberTraining)</span>
@@ -72,7 +72,7 @@ nav_order: 3
 <div class="grant-card">
 <div class="grant-header">
   <div class="grant-title-row">
-    <h3><a href="/grants/multirobot/">CNS: An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments</a></h3>
+    <h3><a href="/grants/multirobot/">An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments</a></h3>
     <span class="funder-badge nsf-badge">NSF</span>
   </div>
   <p class="grant-desc">Securing edge-based multi-robot communication and navigation against adversarial attacks, focusing on resilient coordination in GPS-denied and contested environments.</p>
@@ -89,13 +89,13 @@ nav_order: 3
 <div class="grant-card co-pi-card">
 <div class="grant-header">
   <div class="grant-title-row">
-    <h3>CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
+    <h3>Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
     <span class="funder-badge nsf-badge">NSF</span>
   </div>
-  <p class="grant-desc">Redesigning IoT and edge cybersecurity education for the embodied AI era through research-driven, experiential learning modules and curriculum innovations.</p>
+  <p class="grant-desc">Investigating cybersecurity and system-design challenges of deploying foundation models on resource-constrained IoT and edge devices in the embodied AI era, including securing unmanned aerial vehicles, autonomous vehicles, and robots operating with on-edge intelligence.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">#2623105</a></span>
+  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">#2623105</a> (CyberAI Innovation)</span>
   <span><strong>Period:</strong> 2026–2029</span>
   <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Jianli Pan (GMU)</span>
   <span><strong>Total Award:</strong> $500K</span>

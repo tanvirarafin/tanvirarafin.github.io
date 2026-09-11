@@ -29,6 +29,133 @@ IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 202
 
 Our work has been supported by funding and donations from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, ARLIS, and Xilinx. See our [Grants](/grants/) page for details.
 
+## grant highlights
+
+<div class="about-grant-grid">
+  <a class="about-grant-card" href="/grants/sage/">
+    <span class="about-grant-badge nsf-about-badge">NSF</span>
+    <span class="about-grant-title">AI/ML Model Security for Heterogeneous Hardware Systems</span>
+    <span class="about-grant-meta">Lead PI &nbsp;·&nbsp; $275K &nbsp;·&nbsp; 2025–2028</span>
+  </a>
+  <a class="about-grant-card" href="/grants/cyberstar/">
+    <span class="about-grant-badge nsf-about-badge">NSF</span>
+    <span class="about-grant-title">CyberSTAR: Secure Transportation and Reliable Autonomy</span>
+    <span class="about-grant-meta">Lead PI &nbsp;·&nbsp; $200K &nbsp;·&nbsp; 2025–2028</span>
+  </a>
+  <a class="about-grant-card" href="/grants/">
+    <span class="about-grant-badge nsf-about-badge">NSF</span>
+    <span class="about-grant-title">CyberAI Innovation: IoT/Edge Security for Embodied AI</span>
+    <span class="about-grant-meta">Co-PI &nbsp;·&nbsp; $200K &nbsp;·&nbsp; 2026–2029</span>
+  </a>
+  <a class="about-grant-card" href="/grants/">
+    <span class="about-grant-badge nsf-about-badge">NSF</span>
+    <span class="about-grant-title">EAGLE: CyberCorps Scholarship for Service</span>
+    <span class="about-grant-meta">Co-PI &nbsp;·&nbsp; $3.95M total &nbsp;·&nbsp; 2025–2029</span>
+  </a>
+</div>
+
+## publication highlights
+
+<div class="about-pub-list">
+  <div class="about-pub-item">
+    <a class="about-venue-badge" style="background:#b71c1c" href="https://dac.com/2026" target="_blank">DAC '26</a>
+    <span class="about-pub-title">ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge</span>
+  </div>
+  <div class="about-pub-item">
+    <a class="about-venue-badge" style="background:#c62828" href="https://doi.org/10.1109/HOST68814.2026.11604594" target="_blank">HOST '26</a>
+    <span class="about-pub-title">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling</span>
+  </div>
+  <div class="about-pub-item">
+    <a class="about-venue-badge" style="background:#6a1b9a" href="https://doi.org/10.1109/PACT65351.2025.00033" target="_blank">PACT '25</a>
+    <span class="about-pub-title">Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures</span>
+  </div>
+  <div class="about-pub-item">
+    <a class="about-venue-badge" style="background:#283593" href="https://doi.org/10.1109/LES.2025.3567918" target="_blank">ESL '26</a>
+    <span class="about-pub-title">ArKANe: Accelerating Kolmogorov–Arnold Networks on Reconfigurable Spatial Architectures</span>
+  </div>
+</div>
+
+<style>
+/* ── Grant highlights grid ── */
+.about-grant-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin: 0.75rem 0 1.5rem;
+}
+.about-grant-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--global-divider-color, #dee2e6);
+  border-radius: 6px;
+  text-decoration: none !important;
+  background: var(--global-card-bg-color, #f8f9fa);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.about-grant-card:hover {
+  border-color: var(--global-theme-color, #1565c0);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.nsf-about-badge {
+  display: inline-block;
+  background: #1565c0;
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  border-radius: 3px;
+  padding: 0.1rem 0.4rem;
+  width: fit-content;
+}
+.about-grant-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--global-text-color, #333);
+  line-height: 1.35;
+}
+.about-grant-meta {
+  font-size: 0.72rem;
+  color: var(--global-text-color-light, #777);
+}
+/* ── Publication highlights list ── */
+.about-pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0.75rem 0 1.5rem;
+}
+.about-pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+.about-venue-badge {
+  flex-shrink: 0;
+  display: inline-block;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-size: 0.68rem;
+  font-weight: 800;
+  border-radius: 4px;
+  padding: 0.2rem 0.45rem;
+  margin-top: 0.05rem;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+  transition: opacity 0.15s;
+}
+.about-venue-badge:hover { opacity: 0.82; }
+.about-pub-title {
+  font-size: 0.85rem;
+  color: var(--global-text-color, #333);
+  line-height: 1.4;
+}
+@media (max-width: 600px) {
+  .about-grant-grid { grid-template-columns: 1fr; }
+}
+</style>
+
 ## open positions
 
 <div style="background: #e8f4fd; border-left: 4px solid #1565c0; padding: 0.8rem 1rem; border-radius: 0 4px 4px 0; margin: 0.5rem 0;">

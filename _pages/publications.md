@@ -25,13 +25,15 @@ nav_order: 2
 </div>
 
 <div class="pub-awards-bar">
-  <span class="pub-award-item">🏆 Best Paper &mdash; AsianHOST 2018</span>
+  <a class="pub-award-item" href="https://doi.org/10.1109/AsianHOST.2018.8607166" target="_blank" rel="noopener">🏆 Best Paper &mdash; AsianHOST 2018</a>
   <span class="pub-award-sep">·</span>
-  <span class="pub-award-item">🏅 Best Poster/Demo &mdash; ACM WiSec 2025</span>
+  <a class="pub-award-item" href="https://doi.org/10.1145/3734477.3736152" target="_blank" rel="noopener">🏅 Best Poster/Demo &mdash; ACM WiSec 2025</a>
   <span class="pub-award-sep">·</span>
-  <span class="pub-award-item">🥈 Best Hardware Demo (2nd) &mdash; IEEE HOST 2024</span>
+  <a class="pub-award-item" href="https://host-symposium.org" target="_blank" rel="noopener">🥈 Best Hardware Demo (2nd) &mdash; IEEE HOST 2024</a>
   <span class="pub-award-sep">·</span>
-  <span class="pub-award-item">📝 Best Paper Nominee &mdash; ACM GLSVLSI 2017</span>
+  <a class="pub-award-item" href="https://doi.org/10.1145/3060403.3060455" target="_blank" rel="noopener">📝 Best Paper Nominee &mdash; ACM GLSVLSI 2017</a>
+  <span class="pub-award-sep">·</span>
+  <a class="pub-award-item" href="https://doi.org/10.1109/TC.2021.3049543" target="_blank" rel="noopener">⭐ Featured Paper of the Month &mdash; IEEE TC Feb 2022</a>
 </div>
 
 <!-- _pages/publications.md -->
@@ -91,10 +93,15 @@ nav_order: 2
   background: var(--global-card-bg-color, #f4f6f9);
   border-radius: 6px;
   margin-bottom: 1.5rem;
-  font-size: 0.82rem;
+  font-size: 1rem;
 }
 .pub-award-item {
   color: var(--global-text-color, #333);
+  text-decoration: none;
+}
+.pub-award-item:hover {
+  text-decoration: underline;
+  color: var(--global-theme-color, #1565c0);
 }
 .pub-award-sep {
   color: var(--global-text-color-light, #999);
