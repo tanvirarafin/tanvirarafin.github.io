@@ -14,7 +14,7 @@ nav: false
 | **Period** | 2024–2025 |
 | **Role** | PI |
 | **Award to Mason** | $50,000 |
-| **My Share** | $50,000 |
+| **PI Arafin Share** | $50,000 |
 
 ### Project Summary
 

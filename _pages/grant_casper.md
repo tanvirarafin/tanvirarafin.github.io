@@ -15,7 +15,7 @@ nav: false
 | **Role** | PI |
 | **Prime Award to Mason** | $100,000 |
 | **Subaward to UVA** | $50,000 |
-| **My Share** | $50,000 |
+| **PI Arafin Share** | $50,000 |
 | **Co-PI** | Qiaochu Zhang (UVA) |
 
 ### Project Summary
@@ -30,7 +30,7 @@ The CASPER project aims to:
 
 ### Research Team
 
-- **PI:** Tanvir Arafin, George Mason University
+- **PI:** Dr. Arafin, George Mason University
 - **Co-PI:** Qiaochu Zhang, University of Virginia
 
 ### Funding

@@ -14,7 +14,7 @@ nav: false
 | **Role** | PI |
 | **Prime Award** | $130,000 (Morgan State University) |
 | **Industry Subaward** | $20,000 |
-| **My Share** | $110,000 |
+| **PI Arafin Share** | $110,000 |
 | **Industry Partner** | Clarity Cyber, LLC |
 | **Institution** | Morgan State University |
 

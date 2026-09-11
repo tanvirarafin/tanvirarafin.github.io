@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-I am PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and workforce-development projects and programs. Aggregate project value: **$10,137,589**; individual investigator share: **$2,223,477**.
+Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and workforce-development projects and programs. Aggregate project value: **$10,137,589**; PI Arafin share: **$2,223,477**.
 
 ---
 
@@ -16,33 +16,33 @@ I am PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and w
 <div class="grants-list">
 
 <div class="grant-card">
-<h3><a href="/grants/gaia/">GAIA: GPU Microarchitecture-Based Power Attacks and Countermeasures for AI Data Centers</a></h3>
-<p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-1Q27-004) &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>My Share:</strong> $50,000</p>
-</div>
-
-<div class="grant-card">
-<h3><a href="/grants/casper/">CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure</a></h3>
-<p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-2Q26-007) &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>My Share:</strong> $50,000</p>
-</div>
-
-<div class="grant-card">
 <h3><a href="/grants/sage/">SAGE: Secure Accelerators for Next-Generation Foundation Models</a></h3>
-<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false">NSF Award #2523805</a> (CISE-MSI: SaTC) &nbsp;|&nbsp; <strong>Period:</strong> 2025–2028<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Total Award:</strong> $600,000 &nbsp;|&nbsp; <strong>My Share:</strong> $275,000</p>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false">NSF Award #2523805</a> (Crosscutting Small: SaTC) &nbsp;|&nbsp; <strong>Period:</strong> 2025–2028<br>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Total Award:</strong> $600,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $275,000</p>
 </div>
 
 <div class="grant-card">
 <h3><a href="/grants/cyberstar/">CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy</a></h3>
 <p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false">NSF Award #2519390</a> (CyberTraining) &nbsp;|&nbsp; <strong>Period:</strong> 2025–2028<br>
-<strong>Role:</strong> Lead PI &nbsp;|&nbsp; <strong>Total Award:</strong> $500,000 &nbsp;|&nbsp; <strong>My Share:</strong> $200,000</p>
+<strong>Role:</strong> Lead PI &nbsp;|&nbsp; <strong>Total Award:</strong> $500,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $200,000</p>
 </div>
 
 <div class="grant-card">
 <h3><a href="/grants/multirobot/">CNS: An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments</a></h3>
 <p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false">NSF Award #2245156</a> (CISE-MSI: DP: CNS) &nbsp;|&nbsp; <strong>Period:</strong> 2022–2026<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Total Award:</strong> $600,000 &nbsp;|&nbsp; <strong>My Share:</strong> $95,000</p>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Total Award:</strong> $600,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $95,000</p>
+</div>
+
+<div class="grant-card">
+<h3><a href="/grants/gaia/">GAIA: GPU Microarchitecture-Based Power Attacks and Countermeasures for AI Data Centers</a></h3>
+<p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-1Q27-004) &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $50,000</p>
+</div>
+
+<div class="grant-card">
+<h3><a href="/grants/casper/">CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure</a></h3>
+<p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-2Q26-007) &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $50,000</p>
 </div>
 
 </div>
@@ -56,13 +56,13 @@ I am PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and w
 <div class="grant-card">
 <h3><a href="/grants/chiplet/">Securing Chiplet-Based Semiconductor Manufacturing from Untrusted Supply Chains</a></h3>
 <p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N3Q24003) &nbsp;|&nbsp; <strong>Period:</strong> 2024–2025<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>My Share:</strong> $50,000</p>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $50,000</p>
 </div>
 
 <div class="grant-card">
 <h3><a href="/grants/oran/">Fingerprinting Technology for Enhancing 5G/NextG O-RAN Supply Chain Risk Management</a></h3>
 <p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-3Q24-002) &nbsp;|&nbsp; <strong>Period:</strong> 2024–2025<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>My Share:</strong> $45,383</p>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $45,383</p>
 </div>
 
 </div>
@@ -76,7 +76,7 @@ I am PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and w
 <div class="grant-card">
 <h3><a href="/grants/vispr/">VISPR: A Verified Instruction Secure Processor</a></h3>
 <p><strong>Funder:</strong> Maryland Industrial Partnerships (MIPS) &nbsp;|&nbsp; <strong>Period:</strong> 2022<br>
-<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>My Share:</strong> $110,000</p>
+<strong>Role:</strong> PI &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $110,000</p>
 </div>
 
 </div>

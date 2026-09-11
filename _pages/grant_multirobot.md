@@ -16,7 +16,7 @@ nav: false
 | **Role** | PI |
 | **Total Project Award** | $600,000 |
 | **Award to Mason** | $95,000 |
-| **My Share** | $95,000 |
+| **PI Arafin Share** | $95,000 |
 | **Lead PI** | Kewei Sha (UNT) |
 | **Other PIs** | Bin Tang (CSUDH), Lily Ma (CUNY), Pooyan Fazli (ASU) |
 
@@ -32,7 +32,7 @@ Research contributions include:
 
 ### Research Team
 
-- **PI (Mason):** Tanvir Arafin, George Mason University
+- **PI (Mason):** Dr. Arafin, George Mason University
 - **Lead PI:** Kewei Sha, University of North Texas
 - **Co-PIs:** Bin Tang (CSUDH), Lily Ma (CUNY), Pooyan Fazli (ASU)
 

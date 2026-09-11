@@ -16,7 +16,7 @@ nav: false
 | **Role** | Lead PI |
 | **Total Project Award** | $500,000 |
 | **Award to Mason** | $200,000 |
-| **My Share** | $200,000 |
+| **PI Arafin Share** | $200,000 |
 | **Other PIs** | Lu Gao (University of Houston), Qian Wang (UC Merced) |
 
 ### Project Summary
@@ -32,7 +32,7 @@ Program highlights:
 
 ### Research Team
 
-- **Lead PI:** Tanvir Arafin, George Mason University
+- **Lead PI:** Dr. Arafin, George Mason University
 - **Co-PI:** Lu Gao, University of Houston
 - **Co-PI:** Qian Wang, UC Merced
 

@@ -11,12 +11,12 @@ nav: false
 |---|---|
 | **Funder** | National Science Foundation |
 | **Award #** | [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false) |
-| **Program** | Collaborative Research: CISE-MSI: SaTC |
+| **Program** | Collaborative Research: Crosscutting Small: SaTC |
 | **Period** | 2025–2028 |
 | **Role** | PI |
 | **Total Project Award** | $600,000 |
 | **Award to Mason** | $275,000 |
-| **My Share** | $275,000 |
+| **PI Arafin Share** | $275,000 |
 | **Lead PI** | Wenjie Che (Howard University) |
 
 ### Project Summary
@@ -31,11 +31,11 @@ Research thrusts include:
 
 ### Research Team
 
-- **PI (Mason):** Tanvir Arafin, George Mason University
+- **PI (Mason):** Dr. Arafin, George Mason University
 - **Lead PI:** Wenjie Che, Howard University
 
 ### Funding
 
-This project is supported by the **National Science Foundation** under award [#2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false) (Collaborative Research: CISE-MSI: SaTC: SAGE).
+This project is supported by the **National Science Foundation** under award [#2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false) (Collaborative Research: Crosscutting Small: SaTC: SAGE).
 
 [← Back to Grants](/grants/)
