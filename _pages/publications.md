@@ -14,11 +14,6 @@ nav_order: 2
   </div>
   <div class="pub-stat-divider"></div>
   <div class="pub-stat-item">
-    <span class="pub-stat-number">8</span>
-    <span class="pub-stat-label">Journal Articles</span>
-  </div>
-  <div class="pub-stat-divider"></div>
-  <div class="pub-stat-item">
     <span class="pub-stat-number">3</span>
     <span class="pub-stat-label">US Patents</span>
   </div>

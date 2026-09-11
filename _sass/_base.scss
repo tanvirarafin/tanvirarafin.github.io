@@ -687,25 +687,6 @@ footer.sticky-bottom {
   border-radius: 4px;
 }
 
-/* ── Prominent PDF button (right-floated) ── */
-.pub-pdf-btn {
-  float: right;
-  display: inline-block;
-  background: var(--global-theme-color, #1565c0);
-  color: #fff !important;
-  border: none;
-  border-radius: 4px;
-  padding: 0.22rem 0.6rem;
-  font-size: 0.72rem;
-  font-weight: 700;
-  text-decoration: none !important;
-  margin: 0.1rem 0 0.5rem 0.6rem;
-  white-space: nowrap;
-  letter-spacing: 0.02em;
-
-  &:hover { opacity: 0.82; }
-}
-
 // Publications
 
 .publications {
