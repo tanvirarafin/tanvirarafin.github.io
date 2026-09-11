@@ -38,4 +38,14 @@ profiles:
     image: philip.png
     content: about_philip.md
     image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: 4.jpg
+    content: about_wangxinlei.md
+    image_circular: false
+
+  - align: right
+    image: 2.jpg
+    content: about_max.md
+    image_circular: false
 ---

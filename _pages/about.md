@@ -31,4 +31,6 @@ Our work has been supported by funding and donations from NSF (Grant ID: [262310
 
 ## open positions
 
-We always have **<u> fully-funded GRA positions </u>** for motivated Ph.D. students to participate in hardware design and computer security research. If interested, please send an email along with your resume and transcripts to **marafin(at)gmu(dot)edu**.
+<div style="background: #e8f4fd; border-left: 4px solid #1565c0; padding: 0.8rem 1rem; border-radius: 0 4px 4px 0; margin: 0.5rem 0;">
+We always have <strong>fully-funded GRA positions</strong> for motivated Ph.D. students to participate in hardware design and computer security research. If interested, please email <strong>marafin(at)gmu(dot)edu</strong> with your CV and transcripts.
+</div>
