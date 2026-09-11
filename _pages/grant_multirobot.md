@@ -7,19 +7,6 @@ nav: false
 
 ## CNS: An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments
 
-| | |
-|---|---|
-| **Funder** | National Science Foundation |
-| **Award #** | [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false) |
-| **Program** | CISE-MSI: DP: CNS |
-| **Period** | 2022–2026 |
-| **Role** | PI |
-| **Total Project Award** | $600,000 |
-| **Award to Mason** | $95,000 |
-| **PI Arafin Share** | $95,000 |
-| **Lead PI** | Kewei Sha (UNT) |
-| **Other PIs** | Bin Tang (CSUDH), Lily Ma (CUNY), Pooyan Fazli (ASU) |
-
 ### Project Summary
 
 Multi-robot systems operating in dynamic and adversarial environments must be robust to both hardware failures and malicious attacks. This collaborative NSF project develops **edge-based security and reliability mechanisms** for multi-robot systems.

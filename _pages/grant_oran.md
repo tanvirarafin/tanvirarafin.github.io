@@ -7,15 +7,6 @@ nav: false
 
 ## Fingerprinting Technology for Enhancing 5G/NextG O-RAN Supply Chain Risk Management
 
-| | |
-|---|---|
-| **Funder** | Virginia Innovation Partnership Authority |
-| **Award #** | N-3Q24-002 |
-| **Period** | 2024–2025 |
-| **Role** | PI |
-| **Award to Mason** | $49,993 |
-| **PI Arafin Share** | $45,383 |
-
 ### Project Summary
 
 Open RAN (O-RAN) architectures for 5G and next-generation cellular networks disaggregate hardware and software from multiple vendors, creating new opportunities for supply chain attacks. This project develops **radio fingerprinting and anomaly detection techniques** to identify unauthorized or compromised components within O-RAN deployments.

@@ -7,17 +7,6 @@ nav: false
 
 ## CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure
 
-| | |
-|---|---|
-| **Funder** | Virginia Innovation Partnership Authority |
-| **Award #** | N-2Q26-007 |
-| **Period** | 2026–2027 |
-| **Role** | PI |
-| **Prime Award to Mason** | $100,000 |
-| **Subaward to UVA** | $50,000 |
-| **PI Arafin Share** | $50,000 |
-| **Co-PI** | Qiaochu Zhang (UVA) |
-
 ### Project Summary
 
 Critical energy infrastructure — power grids, substations, and control systems — is increasingly exposed to cyber threats that exploit the boundary between analog sensing and digital control. CASPER develops **analog-cyber sensing techniques** to detect and mitigate attacks targeting these interfaces.

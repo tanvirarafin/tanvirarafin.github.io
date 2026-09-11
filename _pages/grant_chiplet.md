@@ -7,15 +7,6 @@ nav: false
 
 ## Securing Chiplet-Based Semiconductor Manufacturing from Untrusted Supply Chains
 
-| | |
-|---|---|
-| **Funder** | Virginia Innovation Partnership Authority |
-| **Award #** | N3Q24003 |
-| **Period** | 2024–2025 |
-| **Role** | PI |
-| **Award to Mason** | $50,000 |
-| **PI Arafin Share** | $50,000 |
-
 ### Project Summary
 
 The rise of chiplet-based semiconductor design — where heterogeneous dies from potentially different foundries are integrated into a single package — introduces new supply chain security risks. This project investigates **hardware security primitives and verification techniques** for chiplet-based systems manufactured through untrusted supply chains.

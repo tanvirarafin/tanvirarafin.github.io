@@ -7,17 +7,6 @@ nav: false
 
 ## VISPR: A Verified Instruction Secure Processor
 
-| | |
-|---|---|
-| **Funder** | Maryland Industrial Partnerships (MIPS) |
-| **Period** | 2022 |
-| **Role** | PI |
-| **Prime Award** | $130,000 (Morgan State University) |
-| **Industry Subaward** | $20,000 |
-| **PI Arafin Share** | $110,000 |
-| **Industry Partner** | Clarity Cyber, LLC |
-| **Institution** | Morgan State University |
-
 ### Project Summary
 
 Processor security is a foundational challenge: an adversary who compromises instruction fetch or decode can undermine any software-layer defense. The VISPR project designed and prototyped a **formally verified secure processor** that provides hardware-enforced guarantees about instruction integrity and execution correctness.

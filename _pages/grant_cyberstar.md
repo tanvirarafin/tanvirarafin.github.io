@@ -7,18 +7,6 @@ nav: false
 
 ## CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy
 
-| | |
-|---|---|
-| **Funder** | National Science Foundation |
-| **Award #** | [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false) |
-| **Program** | Collaborative Research: CyberTraining |
-| **Period** | 2025–2028 |
-| **Role** | Lead PI |
-| **Total Project Award** | $500,000 |
-| **Award to Mason** | $200,000 |
-| **PI Arafin Share** | $200,000 |
-| **Other PIs** | Lu Gao (University of Houston), Qian Wang (UC Merced) |
-
 ### Project Summary
 
 Connected and autonomous vehicles (CAVs) and transportation systems represent a new attack surface that demands a prepared cybersecurity workforce. CyberSTAR establishes a comprehensive **CyberTraining program** for secure transportation and reliable autonomy, combining research-informed curriculum development, hands-on laboratory exercises, and regional outreach.

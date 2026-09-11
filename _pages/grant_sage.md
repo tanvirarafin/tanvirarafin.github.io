@@ -7,18 +7,6 @@ nav: false
 
 ## SAGE: Secure Accelerators for Next-Generation Foundation Models
 
-| | |
-|---|---|
-| **Funder** | National Science Foundation |
-| **Award #** | [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false) |
-| **Program** | Collaborative Research: Crosscutting Small: SaTC |
-| **Period** | 2025–2028 |
-| **Role** | PI |
-| **Total Project Award** | $600,000 |
-| **Award to Mason** | $275,000 |
-| **PI Arafin Share** | $275,000 |
-| **Lead PI** | Wenjie Che (Howard University) |
-
 ### Project Summary
 
 Large foundation models are increasingly deployed on specialized hardware accelerators, yet the security of these accelerators — and the data processed on them — remains underexplored. The SAGE project investigates **hardware security for AI accelerators** used to train and run next-generation foundation models.
