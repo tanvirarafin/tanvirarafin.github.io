@@ -23,9 +23,7 @@ nav_order: 5
         <p class="people-contact">322 Research Hall &bull; 10401 York River Road &bull; Fairfax, VA 22030</p>
       </div>
     </div>
-  </div>
 
-  <div id="tab-former" class="ptab-pane">
     <h3 class="people-group">Ph.D. Students</h3>
 
     <div class="people-profile">
@@ -54,6 +52,10 @@ nav_order: 5
         <p>Max is a Ph.D. student in the Department of Cyber Security Engineering at George Mason University. He is a member of the SPIRE Lab, advised by Prof. Arafin. His dissertation research focuses on microarchitecture-based power attacks and countermeasures. Expected graduation: Spring 2030.</p>
       </div>
     </div>
+  </div>
+
+  <div id="tab-former" class="ptab-pane">
+    <h3 class="people-group">Graduate Students</h3>
 
     <div class="people-profile">
       <img src="/assets/img/raja.jpeg" alt="Raja Kumar Janga" class="people-img">
