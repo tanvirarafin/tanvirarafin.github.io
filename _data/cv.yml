@@ -209,11 +209,11 @@
 - title: Media Coverage
   type: list
   contents:
-    - "<em>Timing the perfect hardware hack</em>, CEC Courier, 2026"
-    - "<em>Digital drive: Protecting the future of transportation</em>, CEC Courier, 2025"
-    - "<em>Cyber sweep: George Mason students take top three spots in national transportation cybersecurity competition</em>, The George, 2025"
-    - "<em>Cybersecurity students prepare for the inaugural DistrictCon Hacker Conference</em>, The George, 2025"
-    - "<em>Arafin conducting research aimed at securing chiplet-based semiconductor manufacturing from untrusted supply chains</em>, Chiplet Marketplace, 2024"
+    - "<a href='https://cec.gmu.edu/news/2026-06/timing-perfect-hardware-hack'><em>Timing the perfect hardware hack</em></a>, CEC Courier, 2026"
+    - "<a href='https://cec.gmu.edu/news/2025-10/digital-drive-protecting-future-transportation'><em>Digital drive: Protecting the future of transportation</em></a>, CEC Courier, 2025"
+    - "<a href='https://www.gmu.edu/news/2025-03/cyber-sweep-george-mason-students-take-top-three-spots-national-transportation'><em>Cyber sweep: George Mason students take top three spots in national transportation cybersecurity competition</em></a>, The George, 2025"
+    - "<a href='https://www.gmu.edu/news/2025-01/cybersecurity-students-prepare-inaugural-districtcon-hacker-conference'><em>Cybersecurity students prepare for the inaugural DistrictCon Hacker Conference</em></a>, The George, 2025"
+    - "<a href='https://chiplet-marketplace.com/news/securing-chiplet-based-semiconductor-manufacturing-from-untrusted-supply-chains'><em>Arafin conducting research aimed at securing chiplet-based semiconductor manufacturing from untrusted supply chains</em></a>, Chiplet Marketplace, 2024"
 
 - title: Research Interests
   type: nested_list
