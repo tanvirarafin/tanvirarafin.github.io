@@ -1,4 +1,4 @@
-# Tanvir Arafin
+# Dr. Tanvir Arafin
 
 ## PI
 

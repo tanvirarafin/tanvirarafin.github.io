@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper alert: Yanze has two paper accepted at DAC 2026 and DATE 2026!!! Congratulations Yanze!
+New paper alert: Yanze Wu's paper "**ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge**" has been accepted at DAC 2026! Congratulations Yanze!

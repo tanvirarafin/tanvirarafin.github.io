@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have won a new NSF grant titled [Collaborative Research: CyberTraining: Implementation: Small: CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false)!!!
+We have won a new NSF CyberTraining grant: [CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false) (Award #2519390, $200K)! Dr. Arafin is Lead PI on the Mason side.

@@ -3,57 +3,233 @@
   contents:
     - name: Full Name
       value: Md Tanvir Arafin
-    - name: Current Position
-      value: Assistant Professor, Department of Cybersecurity Engineering, George Mason University.
+    - name: Position
+      value: Assistant Professor (Tenure-Track), Department of Cyber Security Engineering, George Mason University
+    - name: Email
+      value: marafin@gmu.edu
+    - name: Phone
+      value: +1 (703) 993 1741
+    - name: Office
+      value: 322 Research Hall, 10401 York River Road, Fairfax, VA 22030
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Maryland, Collge Park, MD, US
+    - title: Ph.D., Electrical Engineering
+      institution: University of Maryland, College Park, MD
       year: 2018
       description:
-        - "Thesis: Hardware-Based Authentication for the Internet-of-Things."
+        - "Thesis: Hardware-Based Authentication for the Internet-of-Things"
         - "Advisor: Gang Qu"
+    - title: M.Sc., Electrical Engineering
+      institution: University of Maryland, College Park, MD
+      year: 2016
+    - title: B.Sc., Electrical & Electronic Engineering
+      institution: Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
+      year: 2011
 
-- title: Experience
+- title: Academic Positions
   type: time_table
   contents:
-    - title: Assistant Professor
-      institution: George Mason University, Fairfax, VA, US
-      year: 2022 - Present
+    - title: Assistant Professor (Tenure-Track)
+      institution: George Mason University, Fairfax, VA
+      year: 2022 – present
+      description:
+        - Department of Cyber Security Engineering
+        - "Affiliate Faculty, Center of Excellence in C5I (Jan. 2023 – present)"
+    - title: Assistant Professor (Tenure-Track)
+      institution: Morgan State University, Baltimore, MD
+      year: 2019 – 2022
+      description:
+        - Department of Electrical and Computer Engineering
+        - "Assistant Director, Cybersecurity Assurance and Policy (CAP) Center (Aug. 2019 – May 2022)"
+    - title: Lecturer
+      institution: Bangladesh University of Engineering & Technology, Dhaka, Bangladesh
+      year: 2011 – 2012
+      description:
+        - Department of Electrical and Electronic Engineering
 
-    - title: Assistant Professor
-      institution: Morgan State University, Baltimore, MD, US
-      year: 2019 - 2022
-
+- title: Industrial, Consulting, and Summer Positions
+  type: time_table
+  contents:
     - title: Software Engineer
-      institution: Bloomberg LP, New York, NY, US
-      year: 2018 - 2019
+      institution: Bloomberg, New York, NY
+      year: 2018 – 2019
+    - title: Vulnerability Research Intern
+      institution: Cyber Innovation Group, Philips, Andover, MA
+      year: 2016 – 2017
+    - title: Research Intern
+      institution: Security & Privacy Group, Bosch, Pittsburgh, PA
+      year: 2016
 
-- title: Honors and Awards
+- title: Honors, Awards, & Professional Recognitions
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Departmental Nominee for the Beck Family Medal for Excellence in Research & Scholarship, George Mason University
+    - year: 2025
+      items:
+        - Best Poster/Demo Award, ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
     - year: 2024
       items:
-        - 2nd Place, Hardware Demo Competition, IEEE HOST
-
+        - Best Hardware Demo Award, 2nd Place, IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+        - Departmental Nominee for the Dean's Award for Excellence in Service, George Mason University
+        - Thank-a-Teacher Recognition, Stearns Center for Teaching and Learning, George Mason University
+    - year: 2023
+      items:
+        - Thank-a-Teacher Recognition, Stearns Center for Teaching and Learning, George Mason University
     - year: 2022
       items:
         - Featured Paper of the Month, IEEE Transactions on Computers
-
     - year: 2018
       items:
-        - IEEE Asian Hardware Oriented Security and Trust Symposium (Asian HOST)
+        - Best Paper Award, IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)
+    - year: 2017
+      items:
+        - Best Paper Nominee, ACM Great Lakes Symposium on VLSI (GLSVLSI)
+    - year: 2015
+      items:
+        - Goldhaber Travel Grant, University of Maryland, College Park
+    - year: 2012
+      items:
+        - Distinguished Graduate Fellowship, A. James Clark School of Engineering, University of Maryland
 
-- title: Academic Interests
+- title: Student Honors and Awards under My Supervision
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - "DAC Young Fellow — Yanze Wu, Ph.D. Student, 63rd Design Automation Conference (DAC), George Mason University"
+    - year: 2025
+      items:
+        - "Third Place, Student Research Competition — Yanze Wu, Ph.D. Student, PACT 2025, George Mason University"
+        - "Best Paper Award — 8th Annual Sage Memorial Capstone Design Competition (Justin Rockwell, Max Bedewi, Mack Bartsch, Bisesh Acharya, Craig Kimbal), George Mason University"
+    - year: 2024
+      items:
+        - "Daniel R. Bannister PhD Retention Fellowship — Yanze Wu, Ph.D. Student, College of Engineering & Computing, George Mason University"
+        - "First Place, National Transportation Cybersecurity Competition — Finn Schafer, George Mason University"
+        - "Second Place, National Transportation Cybersecurity Competition — Noor Mohammed, Sonia Shaukat, Caleb Hughston, Kayleigh Batchos, George Mason University"
+        - "Third Place, National Transportation Cybersecurity Competition — Navraj Singh Gill, George Mason University"
+        - "Best Paper Award — 7th Annual Sage Memorial Capstone Design Competition (Blake Todorowski, Harris Laing, Michael Fox, Rohit Engala), George Mason University"
+
+- title: Invited Talks, Workshops, & Presentations
+  type: list
+  contents:
+    - "<strong>Hardware for Secure Autonomy</strong>, C5I Center Research Review, George Mason University, 2026"
+    - "<strong>Blueprint for the T-1000: The Next Generation of Foundation Models at the Edge</strong>, Virginia Technology Summit, Micron, 2026"
+    - "<strong>Hardware for Secure Autonomy</strong>, Innovation in Cybersecurity AI Colloquium Talk Series, University of the District of Columbia, 2025"
+    - "<strong>Ghosts in the Shell: Security Issues in Robotic Operating System</strong>, Hardware Demonstration, Whiskey and Widgets event, College of Engineering and Computing, George Mason University, 2024"
+    - "<strong>Hardware Security @ C5I Center</strong>, Hardware Demonstration, Center Connect event, College of Engineering and Computing, George Mason University, 2024"
+    - "<strong>Cyber Security Issues in Modern Robotics</strong>, EdgeRobot Research Seminar, California State University – Dominguez Hills, 2023"
+    - "<strong>Hardware for Secure Autonomy</strong>, EdgeRobot Summer Research Seminar, California State University – Dominguez Hills, 2022"
+    - "<strong>Design of Secure and Efficient Processing-In-Memory Systems for Large-Scale Applications</strong>, Tutorial Presentation, 34th International System-on-Chip Conference (SOCC), 2021"
+    - "<strong>Hardware Lottery and the Perils of Computer Security</strong>, Invited Talk, Computer Science Department, IT University of Copenhagen, Denmark, 2021"
+    - "<strong>Autonomous Navigation Under Adversarial Attack</strong>, Abstract Presentation, 49th Annual IEEE Applied Imagery Pattern Recognition (AIPR) Workshop, 2020"
+    - "<strong>Physical Unclonable Functions for Security Applications</strong>, Invited Talk, COSC Colloquium Series, Computer Science Department, Morgan State University, 2020"
+
+- title: External Professional Service
+  type: nested_list
+  contents:
+    - title: Grant and Proposal Review
+      items:
+        - "Proposal Reviewer, Commonwealth Cyber Initiative (CCI), 2025"
+        - "Report Reviewer, USDoT National Center for Transportation Cybersecurity and Resiliency, 2025"
+        - "Panelist, Secure and Trustworthy Cyberspace (SaTC), National Science Foundation (NSF), 2022–2024"
+        - "Technical Reviewer, Maryland Industrial Partnerships (MIPS), 2021"
+    - title: Conference Organization and Leadership
+      items:
+        - "TPC Chair, Section 2: Hardware Security, IEEE Design and Automation Conference (DAC), 2025"
+        - "Publicity Chair, IEEE Asian Hardware Oriented Security and Trust Symposium, 2025"
+        - "Publication Chair, IEEE Asian Hardware Oriented Security and Trust Symposium, 2021–2024"
+    - title: Conference Technical Program Committees
+      items:
+        - "IEEE Design and Automation Conference (DAC), 2023–2024, 2026"
+        - "IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026"
+        - "ACM Great Lakes Symposium on VLSI (GLSVLSI), 2026"
+        - "IEEE International System-on-Chip Conference (SOCC), 2020–2021, 2023–2024"
+        - "IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021–2024"
+        - "IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2021–2023"
+    - title: Conference Session Chair
+      items:
+        - "IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026"
+        - "IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2020, 2022"
+        - "IEEE International System-on-Chip Conference (SOCC), 2020, 2021"
+        - "IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021"
+    - title: Journal Reviewing
+      items:
+        - IEEE Transactions on Computer-Aided Design of ICs and Systems (TCAD)
+        - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+        - IEEE Transactions on Circuits and Systems I (TCAS I)
+        - IEEE Transactions on Information Forensics and Security (TIFS)
+        - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+        - IEEE Internet of Things Journal (IoTJ)
+        - IEEE Network Magazine
+        - ACM Journal on Emerging Technologies in Computing Systems (JETC)
+        - Elsevier Integration, the VLSI Journal
+        - Computer & Security
+        - Springer Journal of Hardware and Systems Security
+
+- title: University and Departmental Service
+  type: nested_list
+  contents:
+    - title: George Mason University
+      items:
+        - "Member, Departmental Tenure-Track Hiring Committee, CYSE Department, 2025–2026"
+        - "Member, Ph.D. Proposal Committee, CYSE Department, 2025–2026"
+        - "Member, Departmental Tenure-Track Hiring Committee, CYSE Department, 2024–2025"
+        - "<strong>Chair, Ph.D. Proposal Committee</strong>, CYSE Department, 2023–2024"
+        - "Member, Department Handbook Committee, CYSE Department, 2023–2024"
+        - "Member, Grievance Committee, CYSE Department, 2023–2024"
+        - "<strong>Chair, Graduate Committee</strong>, CYSE Department, SP 2023"
+        - "Member, Advertisement Committee, CYSE Department, SP 2023"
+        - "Member, Departmental Tenure-Track Hiring Committee, CYSE Department, 2022–2023"
+        - "Member, Departmental Term-Track Hiring Committee, CYSE Department, 2022–2023"
+        - "<strong>Chair, Colloquium Committee</strong>, CYSE Department, F 2022"
+        - "Member, Graduate Committee, CYSE Department, F 2022"
+    - title: Morgan State University
+      items:
+        - "<strong>Graduate Coordinator</strong>, ECE Department, 2020–2022"
+        - "<strong>Undergraduate Coordinator</strong>, ECE Department, 2019–2020"
+        - "Member, Curriculum Development Committee, Ph.D. in Secure Embedded Systems, 2020"
+        - "Member, Faculty Development Committee, ECE Department, 2019–2022"
+        - "Member, Cyber Defense Education (CAE-CDE) Re-designation Committee, 2020, 2021"
+        - "USENIX Campus Representative, Morgan State University, 2020–2022"
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - "Member, Institute of Electrical and Electronics Engineers (IEEE), 2008 – present"
+    - "Member, Association for Computing Machinery (ACM), 2025 – present"
+    - "Member, ACM Emerging Interest Group on Trustworthy and Responsible Systems, 2026 – present"
+    - "Member, USENIX: The Advanced Computing Systems Association, 2020 – 2022"
+    - "Member, Sigma Xi, the Scientific Honorary Society, 2019 – 2023"
+    - "Student Member, IEEE Communication Society, 2010 – 2015"
+
+- title: Media Coverage
+  type: list
+  contents:
+    - "<a href='https://cec.gmu.edu/news/2026-06/timing-perfect-hardware-hack'><em>Timing the perfect hardware hack</em></a>, CEC Courier, 2026"
+    - "<a href='https://cec.gmu.edu/news/2025-10/digital-drive-protecting-future-transportation'><em>Digital drive: Protecting the future of transportation</em></a>, CEC Courier, 2025"
+    - "<a href='https://www.gmu.edu/news/2025-03/cyber-sweep-george-mason-students-take-top-three-spots-national-transportation'><em>Cyber sweep: George Mason students take top three spots in national transportation cybersecurity competition</em></a>, The George, 2025"
+    - "<a href='https://www.gmu.edu/news/2025-01/cybersecurity-students-prepare-inaugural-districtcon-hacker-conference'><em>Cybersecurity students prepare for the inaugural DistrictCon Hacker Conference</em></a>, The George, 2025"
+    - "<a href='https://chiplet-marketplace.com/news/securing-chiplet-based-semiconductor-manufacturing-from-untrusted-supply-chains'><em>Arafin conducting research aimed at securing chiplet-based semiconductor manufacturing from untrusted supply chains</em></a>, Chiplet Marketplace, 2024"
+
+- title: Research Interests
   type: nested_list
   contents:
     - title: Hardware Security
       items:
-        - Circuits and Algorithms for Security
-        - Post-Quantum Cryptography
-    - title: Memory Systems
+        - Side-channel attacks and countermeasures
+        - Post-quantum cryptography acceleration
+        - Hardware authentication and physically unclonable functions
+    - title: Autonomous Systems Security
       items:
-        - Emerging Memory Technologies, STT-MRAM, RRAM, etc.
-        - In-Memory Computing
+        - Secure localization and navigation
+        - Robotic operating system vulnerabilities
+        - Attack detection for cyber-physical systems
+    - title: Computer Architecture
+      items:
+        - Processing-in-memory systems
+        - Reconfigurable spatial architectures
+        - AI/ML hardware accelerators

@@ -1,0 +1,129 @@
+# Hardware Security
+HOST:
+  name: "IEEE HOST"
+  url: "https://host-symposium.org"
+  color: "#c62828"
+AsianHOST:
+  name: "IEEE AsianHOST"
+  url: "https://asianhost.org"
+  color: "#b71c1c"
+ASHES:
+  name: "CCS ASHES"
+  url: "https://acmccs.github.io/ashes/"
+  color: "#6a1b9a"
+
+# Design Automation / EDA
+DATE:
+  name: "IEEE/ACM DATE"
+  url: "https://date-conference.com"
+  color: "#1565c0"
+DAC:
+  name: "ACM DAC"
+  url: "https://dac.com"
+  color: "#0d47a1"
+ICCAD:
+  name: "IEEE/ACM ICCAD"
+  url: "https://iccad.com"
+  color: "#283593"
+ISQED:
+  name: "IEEE ISQED"
+  url: "https://isqed.org"
+  color: "#4e342e"
+
+# Computer Architecture
+ICCD:
+  name: "IEEE ICCD"
+  url: "https://ieee-iccd.org"
+  color: "#1976d2"
+PACT:
+  name: "IEEE/ACM PACT"
+  url: "https://pactconf.org"
+  color: "#6a1b9a"
+ASP-DAC:
+  name: "ACM/IEEE ASP-DAC"
+  url: "https://www.aspdac.com"
+  color: "#00695c"
+SOCC:
+  name: "IEEE SOCC"
+  url: "https://socc.ieee.org"
+  color: "#37474f"
+
+# Wireless / Security
+WiSec:
+  name: "ACM WiSec"
+  url: "https://wisec.acm.org"
+  color: "#2e7d32"
+CSP:
+  name: "IEEE CSP"
+  url: "https://ieeecsp.org"
+  color: "#1b5e20"
+
+# VLSI / Circuits
+GLSVLSI:
+  name: "ACM GLSVLSI"
+  url: "https://glsvlsi.org"
+  color: "#4a148c"
+ISCAS:
+  name: "IEEE ISCAS"
+  url: "https://ieee-iscas.org"
+  color: "#e65100"
+MWSCAS:
+  name: "IEEE MWSCAS"
+  url: "https://mwscas.org"
+  color: "#bf360c"
+
+# Transportation / IoT
+MOST:
+  name: "IEEE MOST"
+  url: "https://ieee-most.org"
+  color: "#6d4c41"
+ICTD:
+  name: "ASCE ICTD"
+  url: "https://ascelibrary.org"
+  color: "#33691e"
+IOTSMS:
+  name: "IEEE IOTSMS"
+  url: "https://iotsms.ieee.org"
+  color: "#00695c"
+PTTI:
+  name: "ION PTTI"
+  url: "https://ion.org/ptti"
+  color: "#37474f"
+
+# Government
+GOMACTech:
+  name: "GOMACTech"
+  url: "https://gomactech.net"
+  color: "#33691e"
+
+# Education
+ASEE:
+  name: "ASEE"
+  url: "https://asee.org"
+  color: "#4527a0"
+
+# Journals
+TVLSI:
+  name: "IEEE TVLSI"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92"
+  color: "#1565c0"
+TC:
+  name: "IEEE Trans. Computers"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12"
+  color: "#0d47a1"
+TETC:
+  name: "IEEE TETC"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519"
+  color: "#1976d2"
+ESL:
+  name: "IEEE ESL"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4563995"
+  color: "#283593"
+IEEEComp:
+  name: "IEEE Computer"
+  url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2"
+  color: "#1a237e"
+OQE:
+  name: "Opt. Quant. Electron."
+  url: "https://www.springer.com/journal/11082"
+  color: "#546e7a"

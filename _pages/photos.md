@@ -4,7 +4,7 @@ title: lab photos
 permalink: /photos/
 description: SPIRE Lab over the years.
 nav: true
-nav_order: 4
+nav_order: 6
 horizontal: false
 ---
 

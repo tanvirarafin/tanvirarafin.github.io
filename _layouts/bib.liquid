@@ -17,27 +17,22 @@
   {% if show_left_badge_column %}
     <div class="col col-sm-2 abbr">
       {%- if venue_abbr != '' -%}
-        {%- if site.data.venues[venue_abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[venue_abbr].color != blank %}
-            {% assign venue_style = site.data.venues[venue_abbr].color | prepend: 'style="background-color:' | append: '"' %}
+        {%- assign v = site.data.venues[venue_abbr] -%}
+        {%- if v -%}
+          {%- if v.logo -%}
+            <a href="{{ v.url }}" class="venue-logo-link" target="_blank" rel="noopener">
+              <img src="/assets/img/logos/venues/{{ v.logo }}" class="venue-logo-img" alt="{{ venue_abbr }}">
+            </a>
+          {%- else -%}
+            <a href="{{ v.url | default: '#' }}" class="venue-card" style="background-color:{{ v.color | default: '#546e7a' }}" target="_blank" rel="noopener">
+              <span class="venue-abbr">{{ venue_abbr }}</span>
+              {%- if entry.year -%}<span class="venue-year">{{ entry.year }}</span>{%- endif -%}
+            </a>
           {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[venue_abbr].url %}
-              <a href="{{site.data.venues[venue_abbr].url}}">{{ venue_abbr }}</a>
-            {% else %}
-              <div>{{- venue_abbr -}}</div>
-            {% endif %}
-          </abbr>
-        {% else %}
+        {%- else -%}
           <abbr class="badge rounded w-100">{{ venue_abbr }}</abbr>
-        {% endif %}
-      {% endif %}
+        {%- endif -%}
+      {%- endif -%}
       {% if site.enable_publication_thumbnails and entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
