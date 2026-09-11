@@ -45,6 +45,24 @@ Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, educati
 <strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $50,000</p>
 </div>
 
+<div class="grant-card">
+<h3>CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">NSF Award #2623105</a> &nbsp;|&nbsp; <strong>Period:</strong> 2026–2029<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Jianli Pan (GMU)</p>
+</div>
+
+<div class="grant-card">
+<h3>ANCHOR: Analog–Cyber Sensing for Secure Energy Infrastructure</h3>
+<p><strong>Funder:</strong> 4-VA &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Qiaochu Zhang (UVA)</p>
+</div>
+
+<div class="grant-card">
+<h3>CyberCorps Scholarship for Service: EAGLE: Empowering American Government Leadership in Cybersecurity through Education</h3>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599">NSF Award #2438599</a> &nbsp;|&nbsp; <strong>Period:</strong> 2025–2029<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Kun Sun (GMU)</p>
+</div>
+
 </div>
 
 ---
@@ -79,18 +97,13 @@ Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, educati
 <strong>Role:</strong> PI &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $110,000</p>
 </div>
 
+<div class="grant-card">
+<h3>CyberCorps Scholarship for Service: Secure Embedded Systems</h3>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700">NSF Award #2042700</a> &nbsp;|&nbsp; <strong>Period:</strong> 2021–2022<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Kevin Kornegay (MSU)</p>
 </div>
 
----
-
-## Co-PI Grants
-
-| Project | Funder | Period | PI |
-|---------|--------|--------|-----|
-| CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research | [NSF #2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105) | 2026–2029 | Jianli Pan (GMU) |
-| ANCHOR: Analog–Cyber Sensing for Secure Energy Infrastructure | 4-VA | 2026–2027 | Qiaochu Zhang (UVA) |
-| CyberCorps Scholarship for Service: EAGLE: Empowering American Government Leadership in Cybersecurity through Education | [NSF #2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599) | 2025–2029 | Kun Sun (GMU) |
-| CyberCorps Scholarship for Service: Secure Embedded Systems | [NSF #2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700) | 2021–2022 | Kevin Kornegay (MSU) |
+</div>
 
 <style>
 .grants-list { margin: 1.5rem 0; }
