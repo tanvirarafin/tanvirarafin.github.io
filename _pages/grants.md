@@ -47,7 +47,8 @@ nav_order: 3
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false">#2523805</a> (SaTC)</span>
   <span><strong>Period:</strong> 2025–2028</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$275K to Mason</span>
+  <span><strong>Total Award:</strong> $600K</span>
+  <span><strong>PI Share:</strong> $275K</span>
 </div>
 </div>
 
@@ -63,7 +64,8 @@ nav_order: 3
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false">#2519390</a> (CyberTraining)</span>
   <span><strong>Period:</strong> 2025–2028</span>
   <span><strong>Role:</strong> Lead PI</span>
-  <span class="grant-amount">$200K to Mason</span>
+  <span><strong>Total Award:</strong> $500K</span>
+  <span><strong>PI Share:</strong> $200K</span>
 </div>
 </div>
 
@@ -76,10 +78,11 @@ nav_order: 3
   <p class="grant-desc">Securing edge-based multi-robot communication and navigation against adversarial attacks, focusing on resilient coordination in GPS-denied and contested environments.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false">#2245156</a> (CISE-MSI: CNS)</span>
+  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false">#2245156</a> (CNS)</span>
   <span><strong>Period:</strong> 2022–2026</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$95K to Mason</span>
+  <span><strong>Total Award:</strong> $600K</span>
+  <span><strong>PI Share:</strong> $95K</span>
 </div>
 </div>
 
@@ -95,6 +98,8 @@ nav_order: 3
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">#2623105</a></span>
   <span><strong>Period:</strong> 2026–2029</span>
   <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Jianli Pan (GMU)</span>
+  <span><strong>Total Award:</strong> $500K</span>
+  <span><strong>PI Share:</strong> $200K</span>
 </div>
 </div>
 
@@ -110,6 +115,8 @@ nav_order: 3
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599">#2438599</a></span>
   <span><strong>Period:</strong> 2025–2029</span>
   <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Kun Sun (GMU)</span>
+  <span><strong>Total Award:</strong> $3.95M</span>
+  <span><strong>PI Share:</strong> $791K</span>
 </div>
 </div>
 
@@ -125,7 +132,8 @@ nav_order: 3
   <span><strong>Award:</strong> CCI Nova #N-1Q27-004</span>
   <span><strong>Period:</strong> 2026–2027</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$50K to Mason</span>
+  <span><strong>Total Award:</strong> $100K</span>
+  <span><strong>PI Share:</strong> $50K</span>
 </div>
 </div>
 
@@ -141,7 +149,8 @@ nav_order: 3
   <span><strong>Award:</strong> CCI Nova #N-2Q26-007</span>
   <span><strong>Period:</strong> 2026–2027</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$50K to Mason</span>
+  <span><strong>Total Award:</strong> $100K</span>
+  <span><strong>PI Share:</strong> $50K</span>
 </div>
 </div>
 
@@ -157,6 +166,8 @@ nav_order: 3
   <span><strong>Funder:</strong> 4-VA, State of Virginia</span>
   <span><strong>Period:</strong> 2026–2027</span>
   <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Qiaochu Zhang (UVA)</span>
+  <span><strong>Total Award:</strong> $25K</span>
+  <span><strong>PI Share:</strong> $5K</span>
 </div>
 </div>
 
@@ -180,7 +191,8 @@ nav_order: 3
   <span><strong>Award:</strong> CCI Nova #N3Q24003</span>
   <span><strong>Period:</strong> 2024–2025</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$50K to Mason</span>
+  <span><strong>Total Award:</strong> $50K</span>
+  <span><strong>PI Share:</strong> $50K</span>
 </div>
 </div>
 
@@ -196,7 +208,8 @@ nav_order: 3
   <span><strong>Award:</strong> CCI Nova #N-3Q24-002</span>
   <span><strong>Period:</strong> 2024–2025</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$45K to Mason</span>
+  <span><strong>Total Award:</strong> $50K</span>
+  <span><strong>PI Share:</strong> $45K</span>
 </div>
 </div>
 
@@ -220,7 +233,8 @@ nav_order: 3
   <span><strong>Funder:</strong> Maryland Industrial Partnerships (MIPS)</span>
   <span><strong>Period:</strong> 2022</span>
   <span><strong>Role:</strong> PI</span>
-  <span class="grant-amount">$110K</span>
+  <span><strong>Total Award:</strong> $130K</span>
+  <span><strong>PI Share:</strong> $110K</span>
 </div>
 </div>
 
@@ -236,6 +250,58 @@ nav_order: 3
   <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700">NSF #2042700</a></span>
   <span><strong>Period:</strong> 2021–2022</span>
   <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Kevin Kornegay (MSU)</span>
+  <span><strong>Total Award:</strong> $3.18M</span>
+  <span><strong>PI Share:</strong> $265K</span>
+</div>
+</div>
+
+<div class="grant-card prior-card co-pi-card">
+<div class="grant-header">
+  <div class="grant-title-row">
+    <h3>Cyber-Assessment of AI/ML Tools</h3>
+    <span class="funder-badge arlis-badge">ARLIS</span>
+  </div>
+  <p class="grant-desc">Assessing the cybersecurity posture and adversarial robustness of AI/ML tools deployed in intelligence and security contexts.</p>
+</div>
+<div class="grant-meta">
+  <span><strong>Funder:</strong> Applied Research Laboratory for Intelligence and Security (ARLIS)</span>
+  <span><strong>Period:</strong> 2020–2021</span>
+  <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Kevin Kornegay (MSU)</span>
+  <span><strong>Total Award:</strong> $150K</span>
+  <span><strong>PI Share:</strong> $38K</span>
+</div>
+</div>
+
+<div class="grant-card prior-card co-pi-card">
+<div class="grant-header">
+  <div class="grant-title-row">
+    <h3>Secure Autonomous Navigation Under Adversarial Attacks</h3>
+    <span class="funder-badge nsa-badge">NSA</span>
+  </div>
+  <p class="grant-desc">Analyzing vulnerabilities in autonomous navigation systems to adversarial attacks and developing secure navigation algorithms for safety-critical platforms.</p>
+</div>
+<div class="grant-meta">
+  <span><strong>Funder:</strong> National Security Agency (NSA), NCAE-C Program</span>
+  <span><strong>Period:</strong> 2020–2021</span>
+  <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Kevin Kornegay (MSU)</span>
+  <span><strong>Total Award:</strong> $150K</span>
+  <span><strong>PI Share:</strong> $50K</span>
+</div>
+</div>
+
+<div class="grant-card prior-card co-pi-card">
+<div class="grant-header">
+  <div class="grant-title-row">
+    <h3>Specification-Based Anomaly Detection for Embedded Devices</h3>
+    <span class="funder-badge nasa-badge">NASA</span>
+  </div>
+  <p class="grant-desc">Developing specification-based anomaly detection techniques for embedded devices deployed in space and mission-critical environments, in collaboration with NASA Jet Propulsion Laboratory.</p>
+</div>
+<div class="grant-meta">
+  <span><strong>Funder:</strong> NASA Jet Propulsion Laboratory (NASA-JPL)</span>
+  <span><strong>Period:</strong> 2020</span>
+  <span><strong>Role:</strong> Co-PI &nbsp;&middot;&nbsp; PI: Kevin Kornegay (MSU)</span>
+  <span><strong>Total Award:</strong> $45K</span>
 </div>
 </div>
 
@@ -245,28 +311,32 @@ nav_order: 3
 
 ## Sponsors
 
-<div class="sponsor-logos">
-  <a href="https://www.nsf.gov" target="_blank" rel="noopener" class="sponsor-item">
-    <img src="/assets/img/logos/nsf.png" alt="National Science Foundation" class="sponsor-logo">
-    <span class="sponsor-name">National Science Foundation</span>
-  </a>
-  <a href="https://cyberinitiative.org/about/regional-structure/northern-virginia-node.html" target="_blank" rel="noopener" class="sponsor-item">
-    <div class="cci-logo-box">
-      <img src="/assets/img/logos/cci_white.png" alt="Commonwealth Cyber Initiative" class="cci-logo-img">
-    </div>
-    <span class="sponsor-name">Commonwealth Cyber Initiative</span>
-  </a>
-  <a href="https://4-va.org" target="_blank" rel="noopener" class="sponsor-item">
-    <div class="sponsor-text-logo fourva-text-logo">
-      <span class="sponsor-logo-abbr">4&#8209;VA</span>
-      <span class="sponsor-logo-full">Advancing the<br>Commonwealth</span>
-    </div>
-  </a>
-  <div class="sponsor-item">
-    <div class="sponsor-text-logo mips-text-logo">
-      <span class="sponsor-logo-abbr">MIPS</span>
-      <span class="sponsor-logo-full">Maryland Industrial<br>Partnerships</span>
-    </div>
+<div class="sponsor-section">
+  <div class="sponsor-row sponsor-row-primary">
+    <a href="https://www.nsf.gov" target="_blank" rel="noopener" class="sponsor-item">
+      <img src="/assets/img/logos/nsf.png" alt="National Science Foundation" class="sponsor-logo">
+      <span class="sponsor-name">National Science Foundation</span>
+    </a>
+    <a href="https://www.gmu.edu" target="_blank" rel="noopener" class="sponsor-item">
+      <img src="/assets/img/logos/gmu.png" alt="George Mason University" class="sponsor-logo gmu-logo">
+      <span class="sponsor-name">George Mason University</span>
+    </a>
+    <a href="https://cyberinitiative.org/about/regional-structure/northern-virginia-node.html" target="_blank" rel="noopener" class="sponsor-item">
+      <div class="cci-logo-box">
+        <img src="/assets/img/logos/cci_white.png" alt="Commonwealth Cyber Initiative" class="cci-logo-img">
+      </div>
+      <span class="sponsor-name">Commonwealth Cyber Initiative</span>
+    </a>
+  </div>
+  <div class="sponsor-row sponsor-row-secondary">
+    <a href="https://4-va.org" target="_blank" rel="noopener" class="sponsor-item">
+      <img src="/assets/img/logos/4va.png" alt="4-VA – Advancing The Commonwealth" class="sponsor-logo fourva-logo">
+      <span class="sponsor-name">4-VA</span>
+    </a>
+    <a href="https://mips.umd.edu" target="_blank" rel="noopener" class="sponsor-item">
+      <img src="/assets/img/logos/umd.svg" alt="University of Maryland" class="sponsor-logo umd-logo">
+      <span class="sponsor-name">Maryland Industrial Partnerships</span>
+    </a>
   </div>
 </div>
 
@@ -288,6 +358,7 @@ nav_order: 3
   flex-direction: column;
   align-items: center;
   padding: 0 2rem;
+  min-width: 100px;
 }
 .stat-number {
   font-size: 2rem;
@@ -296,8 +367,8 @@ nav_order: 3
   line-height: 1;
 }
 .stat-label {
-  font-size: 0.78rem;
-  color: var(--global-text-color-light, #666);
+  font-size: 0.75rem;
+  color: var(--global-text-color-light, #777);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-top: 0.3rem;
@@ -305,93 +376,101 @@ nav_order: 3
 }
 .stat-divider {
   width: 1px;
-  height: 2.5rem;
+  height: 3rem;
   background: var(--global-divider-color, #dee2e6);
-}
-@media (max-width: 600px) {
-  .stat-divider { display: none; }
-  .stat-item { padding: 0.5rem 1rem; }
+  flex-shrink: 0;
 }
 
 /* ── Grant cards ── */
-.grants-list { margin: 1.5rem 0; }
-.grant-card {
-  border-left: 4px solid var(--global-theme-color, #1565c0);
-  padding: 1rem 1.2rem;
-  margin-bottom: 1.2rem;
-  background: var(--global-card-bg-color, #f8f9fa);
-  border-radius: 0 6px 6px 0;
-  transition: box-shadow 0.15s;
-}
-.grant-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-.co-pi-card { border-left-color: var(--global-text-color-light, #999); opacity: 0.9; }
-.completed-card { border-left-color: #5b8a3c; }
-.prior-card { border-left-color: #888; }
+.grants-list { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 0.5rem; }
 
-.grant-header { margin-bottom: 0.5rem; }
+.grant-card {
+  background: var(--global-card-bg-color, #fff);
+  border: 1px solid var(--global-divider-color, #dee2e6);
+  border-left: 4px solid var(--global-theme-color, #1565c0);
+  border-radius: 6px;
+  padding: 1rem 1.2rem 0.8rem;
+}
+.co-pi-card {
+  border-left-color: #6c9bd1;
+  opacity: 0.92;
+}
+.completed-card { border-left-color: #5a7a5a; }
+.prior-card     { border-left-color: #8a6a3a; }
+
 .grant-title-row {
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
-  gap: 0.75rem;
-  margin-bottom: 0.45rem;
+  gap: 0.6rem;
+  flex-wrap: wrap;
 }
 .grant-title-row h3 {
   margin: 0;
   font-size: 1rem;
-  line-height: 1.35;
+  font-weight: 600;
   flex: 1;
+  min-width: 0;
 }
+.grant-title-row h3 a { color: inherit; text-decoration: none; }
+.grant-title-row h3 a:hover { text-decoration: underline; }
+
 .grant-desc {
-  margin: 0 0 0.6rem;
-  font-size: 0.87rem;
-  color: var(--global-text-color, #444);
+  margin: 0.4rem 0 0.6rem;
+  font-size: 0.875rem;
+  color: var(--global-text-color-light, #555);
   line-height: 1.5;
 }
 
+.grant-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.4rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color, #333);
+  border-top: 1px solid var(--global-divider-color, #eee);
+  padding-top: 0.6rem;
+  margin-top: 0.2rem;
+}
+.grant-meta a { color: var(--global-theme-color, #1565c0); }
+
 /* ── Funder badges ── */
 .funder-badge {
-  display: inline-block;
-  padding: 0.2rem 0.6rem;
-  border-radius: 4px;
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   font-weight: 700;
-  letter-spacing: 0.05em;
+  padding: 0.18em 0.55em;
+  border-radius: 3px;
   white-space: nowrap;
   flex-shrink: 0;
-  margin-top: 0.1rem;
+  letter-spacing: 0.03em;
+  align-self: flex-start;
+  margin-top: 0.15rem;
 }
 .nsf-badge    { background: #003f7f; color: #fff; }
 .cci-badge    { background: #1a3a5c; color: #fff; }
 .fourva-badge { background: #1a6b5a; color: #fff; }
 .mips-badge   { background: #c41230; color: #fff; }
-
-/* ── Grant metadata row ── */
-.grant-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 1.2rem;
-  font-size: 0.82rem;
-  color: var(--global-text-color-light, #555);
-  border-top: 1px solid var(--global-divider-color, #e8e8e8);
-  padding-top: 0.5rem;
-}
-.grant-amount {
-  margin-left: auto;
-  font-weight: 700;
-  color: var(--global-theme-color, #1565c0);
-}
+.arlis-badge  { background: #2c3e50; color: #fff; }
+.nsa-badge    { background: #003366; color: #fff; }
+.nasa-badge   { background: #0b3d91; color: #fff; }
 
 /* ── Sponsor logos ── */
-.sponsor-logos {
+.sponsor-section {
+  margin-top: 0.5rem;
+  border-top: 1px solid var(--global-divider-color, #dee2e6);
+  padding-top: 0.5rem;
+}
+.sponsor-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 2.5rem;
-  padding: 2rem 1rem;
-  margin-top: 0.5rem;
-  border-top: 1px solid var(--global-divider-color, #dee2e6);
+  padding: 1.2rem 1rem;
+}
+.sponsor-row-secondary {
+  border-top: 1px dashed var(--global-divider-color, #eee);
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 .sponsor-item {
   display: flex;
@@ -404,43 +483,22 @@ nav_order: 3
 }
 .sponsor-item:hover { opacity: 1; }
 .sponsor-logo {
-  height: 70px;
+  height: 55px;
   width: auto;
   object-fit: contain;
 }
+.fourva-logo { height: 40px; }
+.umd-logo    { height: 45px; }
+.gmu-logo    { height: 55px; }
 .sponsor-name {
   font-size: 0.72rem;
   color: var(--global-text-color-light, #777);
   text-align: center;
 }
-.sponsor-text-logo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0.5rem 1.2rem;
-  border-radius: 6px;
-  min-width: 110px;
-  height: 70px;
-  justify-content: center;
-}
-.sponsor-logo-abbr {
-  font-size: 1.6rem;
-  font-weight: 800;
-  letter-spacing: 0.02em;
-  line-height: 1;
-}
-.sponsor-logo-full {
-  font-size: 0.6rem;
-  text-align: center;
-  line-height: 1.3;
-  margin-top: 0.2rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
 .cci-logo-box {
   background: #1a3a5c;
   border-radius: 6px;
-  height: 70px;
+  height: 55px;
   width: 200px;
   display: flex;
   align-items: center;
@@ -448,10 +506,8 @@ nav_order: 3
   padding: 0 1rem;
 }
 .cci-logo-img {
-  height: 44px;
+  height: 36px;
   width: auto;
   object-fit: contain;
 }
-.fourva-text-logo { background: #1a6b5a; color: #fff; }
-.mips-text-logo   { background: #c41230; color: #fff; }
 </style>
