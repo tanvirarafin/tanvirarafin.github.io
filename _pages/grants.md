@@ -34,6 +34,18 @@ Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, educati
 </div>
 
 <div class="grant-card">
+<h3>CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">NSF Award #2623105</a> &nbsp;|&nbsp; <strong>Period:</strong> 2026–2029<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Jianli Pan (GMU)</p>
+</div>
+
+<div class="grant-card">
+<h3>CyberCorps Scholarship for Service: EAGLE: Empowering American Government Leadership in Cybersecurity through Education</h3>
+<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599">NSF Award #2438599</a> &nbsp;|&nbsp; <strong>Period:</strong> 2025–2029<br>
+<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Kun Sun (GMU)</p>
+</div>
+
+<div class="grant-card">
 <h3><a href="/grants/gaia/">GAIA: GPU Microarchitecture-Based Power Attacks and Countermeasures for AI Data Centers</a></h3>
 <p><strong>Funder:</strong> Virginia Innovation Partnership Authority (Award #N-1Q27-004) &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
 <strong>Role:</strong> PI &nbsp;|&nbsp; <strong>Award to Mason:</strong> $100,000 &nbsp;|&nbsp; <strong>PI Arafin Share:</strong> $50,000</p>
@@ -46,21 +58,9 @@ Dr. Arafin is PI/Lead PI on 8 and Co-PI on 7 externally funded research, educati
 </div>
 
 <div class="grant-card">
-<h3>CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
-<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105">NSF Award #2623105</a> &nbsp;|&nbsp; <strong>Period:</strong> 2026–2029<br>
-<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Jianli Pan (GMU)</p>
-</div>
-
-<div class="grant-card">
 <h3>ANCHOR: Analog–Cyber Sensing for Secure Energy Infrastructure</h3>
 <p><strong>Funder:</strong> 4-VA &nbsp;|&nbsp; <strong>Period:</strong> 2026–2027<br>
 <strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Qiaochu Zhang (UVA)</p>
-</div>
-
-<div class="grant-card">
-<h3>CyberCorps Scholarship for Service: EAGLE: Empowering American Government Leadership in Cybersecurity through Education</h3>
-<p><strong>Funder:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599">NSF Award #2438599</a> &nbsp;|&nbsp; <strong>Period:</strong> 2025–2029<br>
-<strong>Role:</strong> Co-PI &nbsp;|&nbsp; <strong>PI:</strong> Kun Sun (GMU)</p>
 </div>
 
 </div>
