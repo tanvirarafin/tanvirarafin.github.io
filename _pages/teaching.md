@@ -135,5 +135,19 @@ nav_order: 4
 
 <style>
 h2 { margin-top: 2.5rem; }
-.grants-list { margin-bottom: 2rem; }
+.grants-list { display: flex; flex-direction: column; gap: 1.5rem; margin-bottom: 2rem; }
+.grant-card {
+  background: var(--global-card-bg-color, #fff);
+  border: 1px solid var(--global-divider-color, #dee2e6);
+  border-left: 4px solid var(--global-theme-color, #1565c0);
+  border-radius: 6px;
+  padding: 1rem 1.2rem 0.8rem;
+}
+.prior-card { border-left-color: #8a6a3a; }
+.grant-title-row { display: flex; align-items: flex-start; gap: 0.6rem; flex-wrap: wrap; }
+.grant-title-row h3 { margin: 0; font-size: 1rem; font-weight: 600; flex: 1; min-width: 0; }
+.grant-title-row h3 a { color: inherit; text-decoration: none; }
+.grant-title-row h3 a:hover { text-decoration: underline; }
+.grant-desc { margin: 0.4rem 0 0.6rem; font-size: 0.875rem; color: var(--global-text-color-light, #555); line-height: 1.5; }
+.grant-meta { display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; font-size: 0.82rem; color: var(--global-text-color, #333); border-top: 1px solid var(--global-divider-color, #eee); padding-top: 0.6rem; margin-top: 0.2rem; }
 </style>

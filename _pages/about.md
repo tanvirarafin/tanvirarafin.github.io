@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+description: Dr. Md Tanvir Arafin is a leading researcher in hardware security and secure computer architecture at George Mason University. His lab works on side-channel attacks, fault injection, post-quantum cryptography acceleration, autonomous systems security, and secure AI/ML accelerators.
+keywords: hardware security, secure computer architecture, side-channel attacks, fault injection, post-quantum cryptography, autonomous systems security, machine learning security, PUF, physical unclonable function, trusted computation, George Mason University, NSF, embedded systems security, hardware trojans
 
 profile:
   align: right
@@ -23,11 +25,9 @@ Our research explores security opportunities in **emerging computer architecture
 
 Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transaction of Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), [Design and Automation Conference (DAC)](https://dac.com/2026), [Design, Automation and Test in Europe (DATE) Conference](https://date26.date-conference.com/programme), and [Hardware Oriented Security and Trust Symposium (HOST)](https://host.conferences.computer.org).
 
-We have been recognized with the following honors and awards: Departmental Nominee for the [Beck Family Medal for Excellence in Research & Scholarship](https://science.gmu.edu/college-science-faculty-staff-awards) (2026), [Best Poster/Demo Award at
-ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)](https://wisec2025.gmu.edu/awards/) (2025), [Best Hardware Demo Award: 2nd Place at
-IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2024](http://www.hostsymposium.org/host_2024awards.php) (2024), Departmental Nominee for the Dean's Award for Excellence in Service (2024), Thank-a-Teacher Recognition from the Stearns Center for Teaching and Learning (2023, 2024), [IEEE TC Featured Paper of the Month](https://www.computer.org/csdl/journal/tc/misc/14417?title=Multimedia&periodical=IEEE%20Transactions%20on%20Computers) (2022), [Best Paper Award at IEEE AsianHOST](http://asianhost.org/2022/) (2018), and [Best Paper Nomination in ACM GLSVLSI](https://www.glsvlsi.org/archive/glsvlsi17/program.html) (2017).
+We have received: [Best Poster/Demo Award — ACM WiSec](https://wisec2025.gmu.edu/awards/) (2025), [Best Hardware Demo: 2nd Place — IEEE HOST](http://www.hostsymposium.org/host_2024awards.php) (2024), [IEEE TC Featured Paper of the Month](https://www.computer.org/csdl/journal/tc/misc/14417?title=Multimedia&periodical=IEEE%20Transactions%20on%20Computers) (2022), [Best Paper — IEEE AsianHOST](http://asianhost.org/2022/) (2018), and [Best Paper Nominee — ACM GLSVLSI](https://www.glsvlsi.org/archive/glsvlsi17/program.html) (2017).
 
-Our work has been supported by funding and donations from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, ARLIS, and Xilinx. See our [Grants](/grants/) page for details.
+Our work has been supported by over **$10.1M in aggregate funding** (**$2.2M as PI/Co-PI share**) from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, ARLIS, and Xilinx. See our [Grants](/grants/) page for details.
 
 ## recent grants
 
@@ -64,18 +64,23 @@ Our work has been supported by funding and donations from NSF (Grant ID: [262310
   <div class="about-pub-item">
     <a class="about-venue-badge" style="background:#c62828" href="https://doi.org/10.1109/HOST68814.2026.11604594" target="_blank">HOST '26</a>
     <span class="about-pub-title">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling</span>
+    <a class="about-pdf-link" href="/assets/pdf/HOST_2026.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
   <div class="about-pub-item">
     <a class="about-venue-badge" style="background:#1565c0" href="https://doi.org/10.23919/DATE69613.2026.11539722" target="_blank">DATE '26</a>
     <span class="about-pub-title">GPU Acceleration of the Sum-Check Protocol Over Towers of Binary Fields for Verifiable Computing</span>
+    <a class="about-pdf-link" href="/assets/pdf/DATE_2026.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
   <div class="about-pub-item">
     <a class="about-venue-badge" style="background:#6a1b9a" href="https://doi.org/10.1109/PACT65351.2025.00033" target="_blank">PACT '25</a>
     <span class="about-pub-title">Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures</span>
+    <a class="about-pdf-link" href="/assets/pdf/pact_2025.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
 </div>
 
 <style>
+/* ── Smaller profile image ── */
+@media (min-width: 576px) { .profile { width: 22%; } }
 /* ── Grant highlights grid ── */
 .about-grant-grid {
   display: grid;
@@ -146,6 +151,22 @@ Our work has been supported by funding and donations from NSF (Grant ID: [262310
   transition: opacity 0.15s;
 }
 .about-venue-badge:hover { opacity: 0.82; }
+.about-pdf-link {
+  flex-shrink: 0;
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--global-theme-color, #1565c0) !important;
+  border: 1px solid var(--global-theme-color, #1565c0);
+  border-radius: 3px;
+  padding: 0.1rem 0.35rem;
+  margin-top: 0.05rem;
+  text-decoration: none !important;
+  white-space: nowrap;
+  letter-spacing: 0.03em;
+  align-self: flex-start;
+}
+.about-pdf-link:hover { background: var(--global-theme-color, #1565c0); color: #fff !important; }
 .about-pub-title {
   font-size: 0.85rem;
   color: var(--global-text-color, #333);

@@ -382,7 +382,7 @@ nav_order: 3
 }
 
 /* ── Grant cards ── */
-.grants-list { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 0.5rem; }
+.grants-list { display: flex; flex-direction: column; gap: 1.5rem; margin-bottom: 1.5rem; }
 
 .grant-card {
   background: var(--global-card-bg-color, #fff);
