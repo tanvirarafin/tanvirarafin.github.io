@@ -1,0 +1,61 @@
+# Md Tanvir Arafin — Academic Website
+
+> Dr. Md Tanvir Arafin is a leading researcher in hardware security and secure computer architecture, and a tenure-track Assistant Professor in the Department of Cyber Security Engineering at George Mason University (GMU), Fairfax, VA. His lab is a principal investigator on multiple NSF-funded projects spanning secure accelerators for AI/ML models, transportation cybersecurity, and IoT/edge security. Research areas include side-channel attacks, fault injection, post-quantum cryptography acceleration, autonomous systems security, and hardware-derived roots of trust (PUFs, TRNGs, HSMs).
+
+## Research Focus
+
+- Hardware security: side-channel attacks, fault injection, physical unclonable functions (PUFs), secure accelerators
+- Autonomous systems security: LiDAR spoofing, ROS2 vulnerabilities, vehicular network attacks (CAN bus)
+- Post-quantum cryptography acceleration: NTT, hash-based schemes on spatial/reconfigurable architectures
+- AI/ML security: adversarial examples, model inversion, membership inference, backdoor attacks
+- Verifiable computing: zkSNARKs, sum-check protocol, GPU acceleration
+- Transportation cybersecurity: automotive security, connected and autonomous vehicles
+
+## Affiliation
+
+- Title: Assistant Professor
+- Department: Cyber Security Engineering (CYSE)
+- Institution: George Mason University
+- Address: 322 Research Hall, 10401 York River Road, Fairfax, VA 22030
+- Email: marafin@gmu.edu
+- Google Scholar: https://scholar.google.com/citations?user=8NqlrnUAAAAJ
+- ORCID: https://orcid.org/0000-0002-5179-5216
+
+## Active NSF Grants
+
+- SAGE (#2523805): Secure Accelerators for Next-Generation Foundation Models — PI, $275K, 2025–2028
+- CyberSTAR (#2519390): CyberTraining for Secure Transportation and Reliable Autonomy — Lead PI, $200K, 2025–2028
+- CyberAI Innovation (#2623105): Modernizing IoT/Edge Cybersecurity for the Embodied AI Era — Co-PI, $200K, 2026–2029
+- EAGLE (#2438599): CyberCorps Scholarship for Service — Co-PI, $3.95M, 2025–2029
+- Multi-Robot Systems (#2245156): Edge-Based Approach to Robust Multi-Robot Systems — PI (Mason), $95K, 2022–2026
+
+## Selected Publications (2025–2026)
+
+- ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge — ACM DAC 2026
+- GPU Acceleration of the Sum-Check Protocol Over Towers of Binary Fields for Verifiable Computing — IEEE/ACM DATE 2026
+- LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling — IEEE HOST 2026
+- Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures — ACM PACT 2025 (Best Poster/Demo, ACM WiSec 2025)
+- ArKANe: Accelerating Kolmogorov–Arnold Networks on Reconfigurable Spatial Architectures — IEEE Embedded Systems Letters 2026
+
+## Awards & Recognition
+
+- Best Poster/Demo Award — ACM WiSec 2025
+- Best Hardware Demo Award (2nd Place) — IEEE HOST 2024
+- IEEE TC Featured Paper of the Month — February 2022
+- Best Paper Award — IEEE AsianHOST 2018
+- Best Paper Nomination — ACM GLSVLSI 2017
+
+## Teaching (George Mason University)
+
+- CYSE 211: Operating Systems and Lab (F 2024)
+- CYSE 465: Transportation Systems Design (F 2022 – SP 2026)
+- CYSE 499/580: Hardware and Cyber-Physical Systems (SP 2023)
+- CYSE 650: Adversarial Machine Learning and Cyber Security (SP 2026)
+
+## Site Pages
+
+- Home / About: https://tanvirarafin.github.io/
+- Publications: https://tanvirarafin.github.io/publications/
+- Grants: https://tanvirarafin.github.io/grants/
+- Teaching: https://tanvirarafin.github.io/teaching/
+- News: https://tanvirarafin.github.io/news/
