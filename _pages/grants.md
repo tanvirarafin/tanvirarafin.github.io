@@ -117,12 +117,12 @@ nav_order: 3
 <div class="grant-header">
   <div class="grant-title-row">
     <h3><a href="/grants/gaia/">GAIA: GPU Microarchitecture-Based Power Attacks and Countermeasures for AI Data Centers</a></h3>
-    <span class="funder-badge vipa-badge">VIPA</span>
+    <span class="funder-badge cci-badge">CCI</span>
   </div>
   <p class="grant-desc">Uncovering GPU microarchitecture-based power side-channel vulnerabilities in AI data center hardware and developing practical hardware countermeasures.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> VIPA #N-1Q27-004</span>
+  <span><strong>Award:</strong> CCI Nova #N-1Q27-004</span>
   <span><strong>Period:</strong> 2026–2027</span>
   <span><strong>Role:</strong> PI</span>
   <span class="grant-amount">$50K to Mason</span>
@@ -133,12 +133,12 @@ nav_order: 3
 <div class="grant-header">
   <div class="grant-title-row">
     <h3><a href="/grants/casper/">CASPER: Cyber-Analog Sensing for Protecting Critical Energy Infrastructure</a></h3>
-    <span class="funder-badge vipa-badge">VIPA</span>
+    <span class="funder-badge cci-badge">CCI</span>
   </div>
   <p class="grant-desc">Developing cyber-analog sensing techniques that detect and prevent cyberattacks on power grid and critical energy infrastructure through physical-layer anomaly detection.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> VIPA #N-2Q26-007</span>
+  <span><strong>Award:</strong> CCI Nova #N-2Q26-007</span>
   <span><strong>Period:</strong> 2026–2027</span>
   <span><strong>Role:</strong> PI</span>
   <span class="grant-amount">$50K to Mason</span>
@@ -172,12 +172,12 @@ nav_order: 3
 <div class="grant-header">
   <div class="grant-title-row">
     <h3><a href="/grants/chiplet/">Securing Chiplet-Based Semiconductor Manufacturing from Untrusted Supply Chains</a></h3>
-    <span class="funder-badge vipa-badge">VIPA</span>
+    <span class="funder-badge cci-badge">CCI</span>
   </div>
   <p class="grant-desc">Developing hardware authentication and watermarking techniques to secure chiplet-based semiconductor supply chains against counterfeiting and hardware Trojans.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> VIPA #N3Q24003</span>
+  <span><strong>Award:</strong> CCI Nova #N3Q24003</span>
   <span><strong>Period:</strong> 2024–2025</span>
   <span><strong>Role:</strong> PI</span>
   <span class="grant-amount">$50K to Mason</span>
@@ -188,12 +188,12 @@ nav_order: 3
 <div class="grant-header">
   <div class="grant-title-row">
     <h3><a href="/grants/oran/">Fingerprinting Technology for Enhancing 5G/NextG O-RAN Supply Chain Risk Management</a></h3>
-    <span class="funder-badge vipa-badge">VIPA</span>
+    <span class="funder-badge cci-badge">CCI</span>
   </div>
   <p class="grant-desc">Creating RF fingerprinting methods to verify component authenticity in 5G and NextG open radio access networks, addressing open-source supply chain vulnerabilities.</p>
 </div>
 <div class="grant-meta">
-  <span><strong>Award:</strong> VIPA #N-3Q24-002</span>
+  <span><strong>Award:</strong> CCI Nova #N-3Q24-002</span>
   <span><strong>Period:</strong> 2024–2025</span>
   <span><strong>Role:</strong> PI</span>
   <span class="grant-amount">$45K to Mason</span>
@@ -243,18 +243,18 @@ nav_order: 3
 
 ---
 
-## Funding Partners
+## Sponsors
 
 <div class="sponsor-logos">
   <a href="https://www.nsf.gov" target="_blank" rel="noopener" class="sponsor-item">
     <img src="/assets/img/logos/nsf.png" alt="National Science Foundation" class="sponsor-logo">
     <span class="sponsor-name">National Science Foundation</span>
   </a>
-  <a href="https://www.vipacollaborative.com" target="_blank" rel="noopener" class="sponsor-item">
-    <div class="sponsor-text-logo vipa-text-logo">
-      <span class="sponsor-logo-abbr">VIPA</span>
-      <span class="sponsor-logo-full">Virginia Innovation<br>Partnership Authority</span>
+  <a href="https://cyberinitiative.org/about/regional-structure/northern-virginia-node.html" target="_blank" rel="noopener" class="sponsor-item">
+    <div class="cci-logo-box">
+      <img src="/assets/img/logos/cci_white.png" alt="Commonwealth Cyber Initiative" class="cci-logo-img">
     </div>
+    <span class="sponsor-name">Commonwealth Cyber Initiative</span>
   </a>
   <a href="https://4-va.org" target="_blank" rel="noopener" class="sponsor-item">
     <div class="sponsor-text-logo fourva-text-logo">
@@ -361,10 +361,10 @@ nav_order: 3
   flex-shrink: 0;
   margin-top: 0.1rem;
 }
-.nsf-badge   { background: #003f7f; color: #fff; }
-.vipa-badge  { background: #005073; color: #fff; }
+.nsf-badge    { background: #003f7f; color: #fff; }
+.cci-badge    { background: #1a3a5c; color: #fff; }
 .fourva-badge { background: #1a6b5a; color: #fff; }
-.mips-badge  { background: #c41230; color: #fff; }
+.mips-badge   { background: #c41230; color: #fff; }
 
 /* ── Grant metadata row ── */
 .grant-meta {
@@ -437,7 +437,21 @@ nav_order: 3
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
-.vipa-text-logo  { background: #005073; color: #fff; }
+.cci-logo-box {
+  background: #1a3a5c;
+  border-radius: 6px;
+  height: 70px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+}
+.cci-logo-img {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+}
 .fourva-text-logo { background: #1a6b5a; color: #fff; }
-.mips-text-logo  { background: #c41230; color: #fff; }
+.mips-text-logo   { background: #c41230; color: #fff; }
 </style>
