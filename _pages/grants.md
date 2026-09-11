@@ -4,7 +4,7 @@ title: grants
 permalink: /grants/
 description: Funded research, education, and workforce-development projects.
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 I am PI/Lead PI on 8 and Co-PI on 7 externally funded research, education, and workforce-development projects and programs. Aggregate project value: **$10,137,589**; individual investigator share: **$2,223,477**.

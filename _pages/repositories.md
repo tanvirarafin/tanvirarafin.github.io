@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Here is a list of repositories from my group.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## GitHub Repositories
