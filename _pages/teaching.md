@@ -23,24 +23,6 @@ Undergraduate/graduate course on secure design of transportation and autonomous 
 
 ---
 
-## Student Evaluations (George Mason University)
-
-All scores on a 5-point scale (GMU SET instrument reports competency/category means).
-
-| Course | Term | Enroll. | Student Participation | Learning Outcomes | Course Environment | Prep./Org. |
-|--------|------|--------:|-----------------------:|------------------:|-------------------:|-----------:|
-| CYSE 650 | SP 2026 | 12 | 4.58 | 4.50 | 4.71 | 4.68 |
-| CYSE 465 | SP 2026 | 28 | 4.60 | 4.28 | 4.23 | 4.36 |
-| CYSE 465 | SP 2025 | 17 | 4.31 | 4.31 | 4.47 | 4.46 |
-| CYSE 465 | F 2024  | 12 | 4.55 | 4.80 | 4.64 | 4.85 |
-| CYSE 211 | F 2024  | 48 | 4.03 | 4.00 | 3.99 | 4.04 |
-| CYSE 465 | SP 2024 | 10 | 4.89 | 4.78 | 4.80 | 4.74 |
-| CYSE 465 | F 2023  | 25 | 4.35 | 4.63 | 4.57 | 4.59 |
-| CYSE 499/580 | SP 2023 | 37 | 4.26 | 4.16 | 4.35 | 4.27 |
-| CYSE 465 | F 2022  | 39 | 4.13 | 2.65 | 3.10 | 2.48 |
-
----
-
 ## Prior Teaching (Morgan State University)
 
 - EEGR 463: Digital Electronics — SP 2022, SP 2021, F 2020, SP 2020, F 2019
