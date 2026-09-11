@@ -13,13 +13,13 @@ profile:
     <p>Fairfax, VA 22030</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a tenure-track Assistant Professor at the [Department of Cyber Security Engineering](https://cybersecurity.gmu.edu) at [George Mason University](https://www.gmu.edu).
+I am a tenure-track Assistant Professor at the [Department of Cyber Security Engineering](https://cybersecurity.gmu.edu) at [George Mason University](https://www.gmu.edu), and a leading investigator in **hardware security** and **secure computer architecture**.
 
-Our research explores security opportunities in **emerging computer architecture**, examines the **weaknesses in autonomous systems**, and builds hardware-derived primitives for developing **trusted computation frameworks**.
+Our research explores security opportunities in **emerging computer architecture**, examines the **weaknesses in autonomous systems**, and builds hardware-derived primitives for developing **trusted computation frameworks**. Current thrusts include side-channel attacks and defenses, fault injection, post-quantum cryptography acceleration, secure AI/ML accelerators, and vehicular network security.
 
 Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transaction of Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), [Design and Automation Conference (DAC)](https://dac.com/2026), [Design, Automation and Test in Europe (DATE) Conference](https://date26.date-conference.com/programme), and [Hardware Oriented Security and Trust Symposium (HOST)](https://host.conferences.computer.org).
 
@@ -29,32 +29,32 @@ IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 202
 
 Our work has been supported by funding and donations from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, ARLIS, and Xilinx. See our [Grants](/grants/) page for details.
 
-## grant highlights
+## recent grants
 
 <div class="about-grant-grid">
   <a class="about-grant-card" href="/grants/sage/">
     <span class="about-grant-badge nsf-about-badge">NSF</span>
-    <span class="about-grant-title">AI/ML Model Security for Heterogeneous Hardware Systems</span>
-    <span class="about-grant-meta">Lead PI &nbsp;·&nbsp; $275K &nbsp;·&nbsp; 2025–2028</span>
+    <span class="about-grant-title">SAGE: Secure Accelerators for Next-Generation Foundation Models</span>
+    <span class="about-grant-meta">PI &nbsp;·&nbsp; $275K &nbsp;·&nbsp; 2025–2028</span>
   </a>
   <a class="about-grant-card" href="/grants/cyberstar/">
     <span class="about-grant-badge nsf-about-badge">NSF</span>
-    <span class="about-grant-title">CyberSTAR: Secure Transportation and Reliable Autonomy</span>
+    <span class="about-grant-title">CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy</span>
     <span class="about-grant-meta">Lead PI &nbsp;·&nbsp; $200K &nbsp;·&nbsp; 2025–2028</span>
   </a>
   <a class="about-grant-card" href="/grants/">
     <span class="about-grant-badge nsf-about-badge">NSF</span>
-    <span class="about-grant-title">CyberAI Innovation: IoT/Edge Security for Embodied AI</span>
+    <span class="about-grant-title">CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era</span>
     <span class="about-grant-meta">Co-PI &nbsp;·&nbsp; $200K &nbsp;·&nbsp; 2026–2029</span>
   </a>
   <a class="about-grant-card" href="/grants/">
     <span class="about-grant-badge nsf-about-badge">NSF</span>
-    <span class="about-grant-title">EAGLE: CyberCorps Scholarship for Service</span>
+    <span class="about-grant-title">EAGLE: Empowering American Government Leadership in Cybersecurity through Education</span>
     <span class="about-grant-meta">Co-PI &nbsp;·&nbsp; $3.95M total &nbsp;·&nbsp; 2025–2029</span>
   </a>
 </div>
 
-## publication highlights
+## recent publications
 
 <div class="about-pub-list">
   <div class="about-pub-item">
@@ -66,12 +66,12 @@ Our work has been supported by funding and donations from NSF (Grant ID: [262310
     <span class="about-pub-title">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling</span>
   </div>
   <div class="about-pub-item">
-    <a class="about-venue-badge" style="background:#6a1b9a" href="https://doi.org/10.1109/PACT65351.2025.00033" target="_blank">PACT '25</a>
-    <span class="about-pub-title">Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures</span>
+    <a class="about-venue-badge" style="background:#1565c0" href="https://doi.org/10.23919/DATE69613.2026.11539722" target="_blank">DATE '26</a>
+    <span class="about-pub-title">GPU Acceleration of the Sum-Check Protocol Over Towers of Binary Fields for Verifiable Computing</span>
   </div>
   <div class="about-pub-item">
-    <a class="about-venue-badge" style="background:#283593" href="https://doi.org/10.1109/LES.2025.3567918" target="_blank">ESL '26</a>
-    <span class="about-pub-title">ArKANe: Accelerating Kolmogorov–Arnold Networks on Reconfigurable Spatial Architectures</span>
+    <a class="about-venue-badge" style="background:#6a1b9a" href="https://doi.org/10.1109/PACT65351.2025.00033" target="_blank">PACT '25</a>
+    <span class="about-pub-title">Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures</span>
   </div>
 </div>
 
@@ -156,8 +156,3 @@ Our work has been supported by funding and donations from NSF (Grant ID: [262310
 }
 </style>
 
-## open positions
-
-<div style="background: #e8f4fd; border-left: 4px solid #1565c0; padding: 0.8rem 1rem; border-radius: 0 4px 4px 0; margin: 0.5rem 0;">
-We always have <strong>fully-funded GRA positions</strong> for motivated Ph.D. students to participate in hardware design and computer security research. If interested, please email <strong>marafin(at)gmu(dot)edu</strong> with your CV and transcripts.
-</div>
