@@ -1,0 +1,126 @@
+---
+layout: default
+---
+{% assign h = site.data.home %}
+{% assign venues = site.data.venues %}
+<div class="home">
+  <!-- Hero -->
+  <section class="home-hero">
+    <div class="home-hero-copy">
+      <h1 class="home-name">{{ h.name }}</h1>
+      <span class="home-eyebrow">{{ h.eyebrow }}</span>
+      <p class="home-tagline">{{ h.tagline }}</p>
+      <p class="home-intro">{{ h.intro }}</p>
+      <div class="home-tags">
+        {% for t in h.tags %}<span class="home-tag">{{ t }}</span>{% endfor %}
+      </div>
+      <div class="home-actions">
+        <a class="home-btn" href="{{ h.primary_cta.url | relative_url }}">{{ h.primary_cta.label }} <i class="ti ti-arrow-right"></i></a>
+        {% if h.github_url %}<a class="home-iconlink" href="{{ h.github_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>{% elsif site.github_username %}<a class="home-iconlink" href="https://github.com/{{ site.github_username }}"><i class="fa-brands fa-github"></i> GitHub</a>{% endif %}
+        {% if site.scholar_userid %}<a class="home-iconlink" href="https://scholar.google.com/citations?user={{ site.scholar_userid }}"><i class="ai ai-google-scholar"></i> Scholar</a>{% endif %}
+        {% if site.orcid_id %}<a class="home-iconlink" href="https://orcid.org/{{ site.orcid_id }}"><i class="ai ai-orcid"></i> ORCID</a>{% endif %}
+      </div>
+    </div>
+    <aside class="home-card home-contact">
+      <div class="home-contact-head"><span class="home-label">Contact</span><span class="home-rev">{{ h.contact.rev }}</span></div>
+      <div class="home-contact-body">
+        <img class="home-portrait" src="{{ h.contact.portrait | relative_url }}" alt="Portrait of {{ h.name }}" width="148" height="200" loading="eager">
+        <dl class="home-kv">
+          {% for r in h.contact.rows %}
+            <div class="home-kv-row"><dt>{{ r.label }}</dt><span class="home-kv-leader"></span><dd>{{ r.value }}</dd></div>
+          {% endfor %}
+        </dl>
+      </div>
+    </aside>
+  </section>
+
+  <!-- Stats -->
+  <section class="home-stats">
+    {% for s in h.stats %}
+      <a class="home-card home-stat" href="{{ s.url | relative_url }}">
+        <span class="home-stat-number{% if s.secondary %} home-stat-number-pair{% endif %}">{{ s.number }}{% if s.secondary %}<span class="home-stat-slash">/</span>{{ s.secondary }}{% endif %}</span>
+        <span class="home-stat-label">{{ s.label }}</span>
+      </a>
+    {% endfor %}
+  </section>
+
+  <!-- Research thrusts -->
+  <section class="home-section">
+    <div class="home-section-head"><h2>Research thrusts</h2><span class="home-mono-muted">01 — 0{{ h.thrusts | size }}</span></div>
+    <div class="home-thrusts">
+      {% for t in h.thrusts %}
+        <article class="home-card home-thrust">
+          <div class="home-thrust-top">
+            <span class="home-thrust-icon">{% include home/icon-{{ t.icon }}.liquid %}</span>
+            <span class="home-mono-muted">{{ t.venues }}</span>
+          </div>
+          <h3>{{ t.title }}</h3>
+          <p>{{ t.body }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Publications + recognition -->
+  <section class="home-section home-two-col">
+    <div class="home-pubs">
+      <div class="home-section-head home-section-head-plain"><h2>Selected publications</h2><a class="home-more" href="{{ '/publications/' | relative_url }}">all publications →</a></div>
+      {% for p in h.selected_publications %}
+        {% assign v = venues[p.venue] %}
+        <a class="home-pub" href="{{ p.url }}"{% if p.url contains 'http' %} target="_blank" rel="noopener"{% endif %}>
+          <span class="home-venue" style="background: {{ v.color | default: '#1565c0' }}">{{ p.badge }}</span>
+          <span class="home-pub-text"><span class="home-pub-title">{{ p.title }}</span><span class="home-pub-take">{{ p.takeaway }}</span></span>
+          <span class="home-pub-year">{{ p.year }}</span>
+        </a>
+      {% endfor %}
+    </div>
+    <div class="home-recog">
+      <div class="home-section-head"><h2>Recognition</h2></div>
+      <dl class="home-kv">
+        {% for r in h.recognition %}
+          <div class="home-kv-row"><dt>{{ r.year }}</dt><span class="home-kv-leader"></span><dd><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.text }}</a></dd></div>
+        {% endfor %}
+      </dl>
+      {% assign latest = site.news | sort: 'date' | reverse | first %}
+      {% if latest %}
+        <a class="home-latest" href="{{ '/news/' | relative_url }}">
+          <span class="home-label home-label-accent">Latest</span>
+          <span class="home-latest-text">{{ latest.content | strip_html | strip }}</span>
+          <span class="home-mono-muted">{{ latest.date | date: '%B %Y' }}</span>
+        </a>
+      {% endif %}
+    </div>
+  </section>
+
+  <!-- Grants timeline -->
+  <section class="home-section">
+    <div class="home-section-head"><h2>Funded projects</h2><a class="home-more" href="{{ '/grants/' | relative_url }}">{{ h.grants.summary }} →</a></div>
+    <div class="home-grants">
+      {% for g in h.grants.items %}
+        <a class="home-grant" href="{{ g.url | relative_url }}">
+          <span class="home-grant-dot{% if g.active %} active{% endif %}"></span>
+          <span class="home-mono-muted home-grant-meta"><span>{{ g.years }}</span><span>{{ g.funder }}</span></span>
+          <span class="home-grant-title">{{ g.title }}</span>
+          <span class="home-grant-amt">{{ g.role }} · {{ g.amount }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Lab strip -->
+  <section class="home-section home-lab">
+    <div class="home-card home-lab-card">
+      <div>
+        <span class="home-label home-label-accent">{{ h.lab.eyebrow }}</span>
+        <h2 class="home-lab-headline">{{ h.lab.headline }}</h2>
+        <p>{{ h.lab.body }}</p>
+      </div>
+      <a class="home-more" href="{{ h.lab.url | relative_url }}">{{ h.lab.cta }} <i class="ti ti-arrow-right"></i></a>
+    </div>
+    <div class="home-lab-photos">
+      {% for ph in h.lab.photos %}
+        <figure class="home-photo"><img src="{{ ph.src | relative_url }}" alt="{{ ph.alt }}" loading="lazy"><figcaption>{{ ph.caption }}</figcaption></figure>
+      {% endfor %}
+    </div>
+  </section>
+</div>
