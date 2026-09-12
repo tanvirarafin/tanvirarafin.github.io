@@ -27,7 +27,7 @@ The project produces and disseminates **royalty-free resources** to support work
 
 ### Related Course
 
-This grant directly supports the redesign of **CYSE 465: Transportation System Design** at George Mason University, incorporating experiential learning activities on automotive security, reverse engineering, and attack-and-defense scenarios.
+This grant directly supports the redesign of **CYSE 465: Transportation Systems Design** at George Mason University, incorporating experiential learning activities on automotive security, reverse engineering, and attack-and-defense scenarios.
 
 ### Research Team
 

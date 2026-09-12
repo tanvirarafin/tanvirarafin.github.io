@@ -23,11 +23,11 @@ I am a tenure-track Assistant Professor at the [Department of Cyber Security Eng
 
 Our research explores security opportunities in **emerging computer architecture**, examines the **weaknesses in autonomous systems**, and builds hardware-derived primitives for developing **trusted computation frameworks**. Current thrusts include side-channel attacks and defenses, fault injection, post-quantum cryptography acceleration, secure AI/ML accelerators, and vehicular network security.
 
-Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transaction of Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), [Design and Automation Conference (DAC)](https://dac.com/2026), [Design, Automation and Test in Europe (DATE) Conference](https://date26.date-conference.com/programme), and [Hardware Oriented Security and Trust Symposium (HOST)](https://host.conferences.computer.org).
+Our work has been published at flagship venues in hardware design and security, such as [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](https://tvlsi.ieee.org), [IEEE Transactions on Computers (TC)](https://www.computer.org/csdl/journal/tc), [ACM International Conference on Computer-Aided Design (ICCAD)](https://iccad.com), [ACM/IEEE Design Automation Conference (DAC)](https://dac.com/2026), [Design, Automation and Test in Europe (DATE) Conference](https://date26.date-conference.com/programme), and [Hardware Oriented Security and Trust Symposium (HOST)](https://host.conferences.computer.org).
 
-We have received: [Best Poster/Demo Award — ACM WiSec](https://wisec2025.gmu.edu/awards/) (2025), [Best Hardware Demo: 2nd Place — IEEE HOST](http://www.hostsymposium.org/host_2024awards.php) (2024), [IEEE TC Featured Paper of the Month](https://www.computer.org/csdl/journal/tc/misc/14417?title=Multimedia&periodical=IEEE%20Transactions%20on%20Computers) (2022), [Best Paper — IEEE AsianHOST](http://asianhost.org/2022/) (2018), and [Best Paper Nominee — ACM GLSVLSI](https://www.glsvlsi.org/archive/glsvlsi17/program.html) (2017).
+We have received: [Best Poster/Demo Award — ACM WiSec](https://wisec2025.gmu.edu/awards/) (2025), [Best Hardware Demo: 2nd Place — IEEE HOST](http://www.hostsymposium.org/host_2024awards.php) (2024), [IEEE TC Featured Paper of the Month](https://www.computer.org/csdl/journal/tc/misc/14417?title=Multimedia&periodical=IEEE%20Transactions%20on%20Computers) (2022), [Best Paper — IEEE AsianHOST](https://doi.org/10.1109/AsianHOST.2018.8607166) (2018), and [Best Paper Nominee — ACM GLSVLSI](https://www.glsvlsi.org/archive/glsvlsi17/program.html) (2017).
 
-Our work has been supported by over **$10.1M in aggregate funding** (**$2.2M as PI/Co-PI share**) from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, ARLIS, and Xilinx. See our [Grants](/grants/) page for details.
+Our work has been supported by over **$10.1M in aggregate funding** (**$2.2M as PI/Co-PI share**) from NSF (Grant ID: [2623105](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2623105&HistoricalAwards=false), [2523805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2523805&HistoricalAwards=false), [2519390](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2519390&HistoricalAwards=false), [2438599](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438599&HistoricalAwards=false), [2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false), [2042700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2042700&HistoricalAwards=false)), the Virginia Innovation Partnership Authority (GAIA, CASPER), 4-VA, NSA, MIPS, NASA-JPL, and ARLIS. See our [Grants](/grants/) page for details.
 
 ## recent grants
 
@@ -44,7 +44,7 @@ Our work has been supported by over **$10.1M in aggregate funding** (**$2.2M as 
   </a>
   <a class="about-grant-card" href="/grants/">
     <span class="about-grant-badge nsf-about-badge">NSF</span>
-    <span class="about-grant-title">CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era</span>
+    <span class="about-grant-title">CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</span>
     <span class="about-grant-meta">Co-PI &nbsp;·&nbsp; $200K &nbsp;·&nbsp; 2026–2029</span>
   </a>
   <a class="about-grant-card" href="/grants/">
@@ -63,7 +63,7 @@ Our work has been supported by over **$10.1M in aggregate funding** (**$2.2M as 
   </div>
   <div class="about-pub-item">
     <a class="about-venue-badge" style="background:#c62828" href="https://doi.org/10.1109/HOST68814.2026.11604594" target="_blank">HOST '26</a>
-    <span class="about-pub-title">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling</span>
+    <span class="about-pub-title">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment &amp; Temporal Modeling</span>
     <a class="about-pdf-link" href="/assets/pdf/HOST_2026.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
   <div class="about-pub-item">

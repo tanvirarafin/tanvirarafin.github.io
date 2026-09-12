@@ -108,17 +108,17 @@
     - year: 2024
       items:
         - "Daniel R. Bannister PhD Retention Fellowship — Yanze Wu, Ph.D. Student, College of Engineering & Computing, George Mason University"
-        - "First Place, National Transportation Cybersecurity Competition — Finn Schafer, George Mason University"
+        - "First Place, National Transportation Cybersecurity Competition — Finn Schaefer, George Mason University"
         - "Second Place, National Transportation Cybersecurity Competition — Noor Mohammed, Sonia Shaukat, Caleb Hughston, Kayleigh Batchos, George Mason University"
         - "Third Place, National Transportation Cybersecurity Competition — Navraj Singh Gill, George Mason University"
-        - "Best Paper Award — 7th Annual Sage Memorial Capstone Design Competition (Blake Todorowski, Harris Laing, Michael Fox, Rohit Engala), George Mason University"
+        - "Best Paper Award — 7th Annual Sage Memorial Capstone Design Competition (Blake Todorowski, Harris Laing, Michael Fox, Rohit Eagala), George Mason University"
 
 - title: Invited Talks, Workshops, & Presentations
   type: list
   contents:
     - "<strong>Hardware for Secure Autonomy</strong>, C5I Center Research Review, George Mason University, 2026"
     - "<strong>Blueprint for the T-1000: The Next Generation of Foundation Models at the Edge</strong>, Virginia Technology Summit, Micron, 2026"
-    - "<strong>Hardware for Secure Autonomy</strong>, Innovation in Cybersecurity AI Colloquium Talk Series, University of the District of Columbia, 2025"
+    - "<strong>Hardware for Secure Autonomy</strong>, Innovation in Cybersecurity &amp; AI Colloquium Talk Series, University of the District of Columbia, 2025"
     - "<strong>Ghosts in the Shell: Security Issues in Robotic Operating System</strong>, Hardware Demonstration, Whiskey and Widgets event, College of Engineering and Computing, George Mason University, 2024"
     - "<strong>Hardware Security @ C5I Center</strong>, Hardware Demonstration, Center Connect event, College of Engineering and Computing, George Mason University, 2024"
     - "<strong>Cyber Security Issues in Modern Robotics</strong>, EdgeRobot Research Seminar, California State University – Dominguez Hills, 2023"
@@ -139,12 +139,12 @@
         - "Technical Reviewer, Maryland Industrial Partnerships (MIPS), 2021"
     - title: Conference Organization and Leadership
       items:
-        - "TPC Chair, Section 2: Hardware Security, IEEE Design and Automation Conference (DAC), 2025"
+        - "TPC Chair, Section 2: Hardware Security, ACM/IEEE Design Automation Conference (DAC), 2025"
         - "Publicity Chair, IEEE Asian Hardware Oriented Security and Trust Symposium, 2025"
         - "Publication Chair, IEEE Asian Hardware Oriented Security and Trust Symposium, 2021–2024"
     - title: Conference Technical Program Committees
       items:
-        - "IEEE Design and Automation Conference (DAC), 2023–2024, 2026"
+        - "ACM/IEEE Design Automation Conference (DAC), 2023–2024, 2026"
         - "IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026"
         - "ACM Great Lakes Symposium on VLSI (GLSVLSI), 2026"
         - "IEEE International System-on-Chip Conference (SOCC), 2020–2021, 2023–2024"

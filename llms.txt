@@ -1,6 +1,6 @@
 # Md Tanvir Arafin — Academic Website
 
-> Dr. Md Tanvir Arafin is a leading researcher in hardware security and secure computer architecture, and a tenure-track Assistant Professor in the Department of Cyber Security Engineering at George Mason University (GMU), Fairfax, VA. His lab is a principal investigator on multiple NSF-funded projects spanning secure accelerators for AI/ML models, transportation cybersecurity, and IoT/edge security. Research areas include side-channel attacks, fault injection, post-quantum cryptography acceleration, autonomous systems security, and hardware-derived roots of trust (PUFs, TRNGs, HSMs).
+> Dr. Md Tanvir Arafin is a leading researcher in hardware security and secure computer architecture, and a tenure-track Assistant Professor in the Department of Cyber Security Engineering at George Mason University (GMU), Fairfax, VA. He is a principal investigator on multiple NSF-funded projects spanning secure accelerators for AI/ML models, transportation cybersecurity, and IoT/edge security. Research areas include side-channel attacks, fault injection, post-quantum cryptography acceleration, autonomous systems security, and hardware-derived roots of trust (PUFs, TRNGs, HSMs).
 
 ## Research Focus
 
@@ -21,20 +21,27 @@
 - Google Scholar: https://scholar.google.com/citations?user=8NqlrnUAAAAJ
 - ORCID: https://orcid.org/0000-0002-5179-5216
 
-## Active NSF Grants
+## NSF Grants
+
+Active:
 
 - SAGE (#2523805): Secure Accelerators for Next-Generation Foundation Models — PI, $275K, 2025–2028
 - CyberSTAR (#2519390): CyberTraining for Secure Transportation and Reliable Autonomy — Lead PI, $200K, 2025–2028
-- CyberAI Innovation (#2623105): Modernizing IoT/Edge Cybersecurity for the Embodied AI Era — Co-PI, $200K, 2026–2029
+- CyberAI Innovation (#2623105): Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research — Co-PI, $200K share of $500K, 2026–2029
 - EAGLE (#2438599): CyberCorps Scholarship for Service — Co-PI, $3.95M, 2025–2029
+
+Completed:
+
 - Multi-Robot Systems (#2245156): Edge-Based Approach to Robust Multi-Robot Systems — PI (Mason), $95K, 2022–2026
 
 ## Selected Publications (2025–2026)
 
 - ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge — ACM DAC 2026
 - GPU Acceleration of the Sum-Check Protocol Over Towers of Binary Fields for Verifiable Computing — IEEE/ACM DATE 2026
-- LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling — IEEE HOST 2026
-- Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures — ACM PACT 2025 (Best Poster/Demo, ACM WiSec 2025)
+- LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment & Temporal Modeling — IEEE HOST 2026
+- Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures — IEEE/ACM PACT 2025
+- DEMO: Radio Unit Activity Fingerprinting through Electromagnetic Side-Channel Analysis in O-RAN Networks — ACM WiSec 2025 (Best Poster/Demo Award)
+- Thena: Torus Fully Homomorphic Encryption on Energy-Efficient Heterogeneous Architecture — IEEE ICCD 2025
 - ArKANe: Accelerating Kolmogorov–Arnold Networks on Reconfigurable Spatial Architectures — IEEE Embedded Systems Letters 2026
 
 ## Awards & Recognition
