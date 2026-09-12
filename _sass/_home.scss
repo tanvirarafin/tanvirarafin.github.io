@@ -28,11 +28,13 @@ body {
   }
 }
 
-// Break the homepage out of the 930px container
+// Widen the theme container on the homepage only (default is 930px)
+.container:has(> .home) {
+  max-width: 1152px;
+}
 .home {
-  --home-width: min(1120px, 100vw - 2rem);
-  width: var(--home-width);
-  margin-left: calc(50% - var(--home-width) / 2);
+  width: 100%;
+  margin: 0;
   display: flex;
   flex-direction: column;
   gap: 4rem;
