@@ -16,7 +16,7 @@ keywords: hardware security, open source, GitHub, zkSNARK, SLAM security, post-q
 <div class="grant-header">
   <div class="grant-title-row">
     <span class="funder-badge" style="background:#c62828; color:#fff;">HOST '26</span>
-    <h3><a href="https://doi.org/10.1109/HOST68814.2026.11604594" target="_blank" rel="noopener">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment and Temporal Modeling</a></h3>
+    <h3><a href="https://doi.org/10.1109/HOST68814.2026.11604594" target="_blank" rel="noopener">LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment &amp; Temporal Modeling</a></h3>
     <a class="repo-pdf-link" href="/assets/pdf/HOST_2026.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
   <p class="grant-desc">Statistical and temporal LiDAR beam manipulation to compromise autonomous SLAM navigation on ROS2. Includes the PULSER framework for evaluating SLAM robustness under spoofing attacks with TurtleBot3.</p>
@@ -52,7 +52,7 @@ keywords: hardware security, open source, GitHub, zkSNARK, SLAM security, post-q
 <div class="grant-header">
   <div class="grant-title-row">
     <span class="funder-badge" style="background:#4a148c; color:#fff;">ICCD '25</span>
-    <h3><a href="https://doi.org/10.1109/iccd65941.2025.00094" target="_blank" rel="noopener">THENA: Accelerating Torus Fully Homomorphic Encryption on Energy-Efficient Heterogeneous Architecture</a></h3>
+    <h3><a href="https://doi.org/10.1109/ICCD65941.2025.00094" target="_blank" rel="noopener">Thena: Torus Fully Homomorphic Encryption on Energy-Efficient Heterogeneous Architecture</a></h3>
     <a class="repo-pdf-link" href="/assets/pdf/iccd_2025.pdf" target="_blank" rel="noopener">PDF</a>
   </div>
   <p class="grant-desc">TFHE bootstrapping acceleration on AMD Versal ACAP AI Engines. Achieves energy-efficient FHE evaluation by offloading blind-rotation kernels to the AIE array with high-throughput PL bridging.</p>

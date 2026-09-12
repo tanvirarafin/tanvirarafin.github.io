@@ -69,27 +69,10 @@ nav_order: 3
 </div>
 </div>
 
-<div class="grant-card">
-<div class="grant-header">
-  <div class="grant-title-row">
-    <h3><a href="/grants/multirobot/">An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments</a></h3>
-    <span class="funder-badge nsf-badge">NSF</span>
-  </div>
-  <p class="grant-desc">Securing edge-based multi-robot communication and navigation against adversarial attacks, focusing on resilient coordination in GPS-denied and contested environments.</p>
-</div>
-<div class="grant-meta">
-  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false">#2245156</a> (CNS)</span>
-  <span><strong>Period:</strong> 2022–2026</span>
-  <span><strong>Role:</strong> PI</span>
-  <span><strong>Total Award:</strong> $600K</span>
-  <span><strong>PI Share:</strong> $95K</span>
-</div>
-</div>
-
 <div class="grant-card co-pi-card">
 <div class="grant-header">
   <div class="grant-title-row">
-    <h3>Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
+    <h3>CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education for the Embodied AI Era through Experiential Learning and Research</h3>
     <span class="funder-badge nsf-badge">NSF</span>
   </div>
   <p class="grant-desc">Investigating cybersecurity and system-design challenges of deploying foundation models on resource-constrained IoT and edge devices in the embodied AI era, including securing unmanned aerial vehicles, autonomous vehicles, and robots operating with on-edge intelligence.</p>
@@ -178,6 +161,23 @@ nav_order: 3
 ## Completed Grants at George Mason University
 
 <div class="grants-list">
+
+<div class="grant-card completed-card">
+<div class="grant-header">
+  <div class="grant-title-row">
+    <h3><a href="/grants/multirobot/">An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments</a></h3>
+    <span class="funder-badge nsf-badge">NSF</span>
+  </div>
+  <p class="grant-desc">Securing edge-based multi-robot communication and navigation against adversarial attacks, focusing on resilient coordination in GPS-denied and contested environments.</p>
+</div>
+<div class="grant-meta">
+  <span><strong>Award:</strong> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false">#2245156</a> (CNS)</span>
+  <span><strong>Period:</strong> 2022–2026</span>
+  <span><strong>Role:</strong> PI</span>
+  <span><strong>Total Award:</strong> $600K</span>
+  <span><strong>PI Share:</strong> $95K</span>
+</div>
+</div>
 
 <div class="grant-card completed-card">
 <div class="grant-header">
