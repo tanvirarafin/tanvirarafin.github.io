@@ -19,7 +19,7 @@ nav_order: 2
   </div>
   <div class="pub-stat-divider"></div>
   <div class="pub-stat-item">
-    <span class="pub-stat-number">4</span>
+    <span class="pub-stat-number">3</span>
     <span class="pub-stat-label">Best Paper / Demo Awards</span>
   </div>
 </div>

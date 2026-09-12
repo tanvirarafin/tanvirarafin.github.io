@@ -1,0 +1,115 @@
+# Content for the homepage (rendered by _layouts/home.liquid).
+eyebrow: Assistant Professor · Cyber Security Engineering · George Mason University
+name: Tanvir Arafin
+tagline: Secure computer architecture for autonomous and post-quantum systems.
+intro: >-
+  The SPIRE Lab finds side-channel and fault-injection weaknesses in emerging hardware,
+  breaks and hardens autonomous systems, and builds spatial accelerators that make
+  post-quantum cryptography and verifiable computing practical at the edge.
+tags:
+  - Secure AI/ML accelerators
+  - Post-quantum acceleration
+  - Autonomous systems security
+  - Side channels &amp; fault injection
+github_url: https://github.com/SPIRE-GMU
+primary_cta:
+  label: Selected publications
+  url: /publications/
+
+contact:
+  rev: REV 2026.09
+  portrait: /assets/img/home/portrait.jpg
+  rows:
+    - { label: "Dept.", value: "Cyber Security Engineering" }
+    - { label: "Office", value: "322 Research Hall" }
+    - { label: "Email", value: "marafin@gmu.edu" }
+    - { label: "Phone", value: "+1 703 993 1741" }
+    - { label: "Lab", value: "SPIRE Lab" }
+    - { label: "Affil.", value: "C5I Center" }
+
+stats:
+  - { number: "40+", label: "Publications", url: /publications/ }
+  - { number: "6", label: "NSF awards", url: /grants/ }
+  - { number: "$10.1M", secondary: "$2.2M", label: "Aggregate / PI share", url: /grants/ }
+  - { number: "3", label: "Paper &amp; demo awards won", url: /publications/ }
+
+thrusts:
+  - icon: layers
+    title: Accelerators for post-quantum &amp; verifiable computing
+    body: >-
+      NTT, sum-check, and hash-chain kernels mapped onto Versal AI Engines and edge GPUs
+      so zkSNARKs, FHE, and XMSS run within an embedded power budget.
+    venues: DAC · DATE · PACT · ICCD
+  - icon: chip
+    title: Roots of trust &amp; side channels
+    body: >-
+      Power, electromagnetic, and timing leakage in NTT and lattice hardware. Fault
+      injection against hash-based post-quantum signatures, and the countermeasures
+      that survive it.
+    venues: HOST · AsianHOST · GOMACTech
+  - icon: radar
+    title: Secure autonomy &amp; transportation
+    body: >-
+      LiDAR spoofing against SLAM, ROS 2 attack surfaces, CAN-bus exploitation, and the
+      cyberinfrastructure that trains the next automotive security workforce.
+    venues: HOST · MOST · NSF CyberTraining
+
+selected_publications:
+  - venue: DAC
+    badge: DAC '26
+    title: "ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge"
+    takeaway: Additive number-theoretic transforms on Versal AI Engines for edge zero-knowledge proofs.
+    year: 2026
+    url: https://dac.com/2026
+  - venue: HOST
+    badge: HOST '26
+    title: "LiDAR Spoofing for Compromising SLAM on ROS 2 Using Statistical Beam Adjustment &amp; Temporal Modeling"
+    takeaway: A few percent of injected drift is enough to steer a TurtleBot3 into a wall. Student-led capstone.
+    year: 2026
+    url: https://doi.org/10.1109/HOST68814.2026.11604594
+  - venue: DATE
+    badge: DATE '26
+    title: "GPU Acceleration of the Sum-Check Protocol over Towers of Binary Fields"
+    takeaway: The sum-check bottleneck of Binius-style proof systems, on commodity GPUs.
+    year: 2026
+    url: https://doi.org/10.23919/DATE69613.2026.11539722
+  - venue: PACT
+    badge: PACT '25
+    title: "Energy-Efficient Acceleration of Hash-Based Post-Quantum Cryptographic Schemes on Embedded Spatial Architectures"
+    takeaway: "AXIOS: XMSS key generation 8.5× faster and 71× more energy-efficient than a Core i9-14900K."
+    year: 2025
+    url: https://doi.org/10.1109/PACT65351.2025.00033
+  - venue: ESL
+    badge: ESL '26
+    title: "ArKANe: Accelerating Kolmogorov–Arnold Networks on Reconfigurable Spatial Architectures"
+    takeaway: Systolic and wavefront B-spline engines that beat an RTX 3090 on energy by more than 3×.
+    year: 2026
+    url: https://doi.org/10.1109/LES.2025.3567918
+
+recognition:
+  - { year: "2025", text: "Best Poster/Demo · ACM WiSec", url: "https://doi.org/10.1145/3734477.3736152" }
+  - { year: "2024", text: "Best HW Demo, 2nd · IEEE HOST", url: "http://www.hostsymposium.org/host_2024awards.php" }
+  - { year: "2022", text: "Featured Paper · IEEE TC", url: "https://doi.org/10.1109/TC.2021.3049543" }
+  - { year: "2018", text: "Best Paper · IEEE AsianHOST", url: "https://doi.org/10.1109/AsianHOST.2018.8607166" }
+  - { year: "2017", text: "Best Paper Nominee · GLSVLSI", url: "https://doi.org/10.1145/3060403.3060455" }
+
+grants:
+  summary: 15 projects · $10.1M
+  items:
+    - { years: "2025–28", funder: "NSF SaTC", title: "SAGE: Secure Accelerators for Next-Generation Foundation Models", role: "PI", amount: "$275K share", url: /grants/sage/, active: true }
+    - { years: "2025–28", funder: "NSF CyberTraining", title: "CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy", role: "Lead PI", amount: "$200K share", url: /grants/cyberstar/, active: true }
+    - { years: "2026–29", funder: "NSF CyberAI", title: "CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education", role: "Co-PI", amount: "$200K share", url: /grants/, active: true }
+    - { years: "2025–29", funder: "NSF SFS", title: "EAGLE: CyberCorps Scholarship for Service", role: "Co-PI", amount: "$791K share", url: /grants/, active: true }
+    - { years: "2026–27", funder: "CCI · VIPA", title: "GAIA and CASPER: GPU power attacks; analog sensing for the grid", role: "PI", amount: "$100K share", url: /grants/gaia/, active: true }
+
+lab:
+  eyebrow: SPIRE Lab
+  headline: Meet the SPIRE Lab.
+  body: >-
+    Student-led work from the lab has reached DAC, HOST, DATE, and PACT, and swept the
+    top three spots at the 2024 National Transportation Cybersecurity Competition.
+  cta: People, projects, and photos
+  url: /people/
+  photos:
+    - { src: /assets/img/home/host2024.jpg, alt: "Team receiving the HOST 2024 hardware demo award", caption: "HOST 2024 · Best HW Demo, 2nd" }
+    - { src: /assets/img/home/centerconnect.jpg, alt: "SPIRE Lab students at the Center Connect event", caption: "Center Connect 2024" }
