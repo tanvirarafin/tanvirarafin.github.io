@@ -1,7 +1,7 @@
 # Hardware Security
 HOST:
   name: "IEEE HOST"
-  url: "https://host-symposium.org"
+  url: "https://host.conferences.computer.org/"
   color: "#c62828"
 AsianHOST:
   name: "IEEE AsianHOST"
