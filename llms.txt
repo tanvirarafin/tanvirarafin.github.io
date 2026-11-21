@@ -34,8 +34,9 @@ Completed:
 
 - Multi-Robot Systems (#2245156): Edge-Based Approach to Robust Multi-Robot Systems — PI (Mason), $95K, 2022–2026
 
-## Selected Publications (2025–2026)
+## Selected Publications (2025–2027)
 
+- CLEO: Circle FFT Acceleration on Heterogeneous Architectures for High-Throughput zkSTARKs at the Edge — IEEE/ACM DATE 2027 (to appear)
 - ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge — ACM DAC 2026
 - GPU Acceleration of the Sum-Check Protocol Over Towers of Binary Fields for Verifiable Computing — IEEE/ACM DATE 2026
 - LiDAR Spoofing for Compromising SLAM on ROS2 Using Statistical Beam Adjustment & Temporal Modeling — IEEE HOST 2026
