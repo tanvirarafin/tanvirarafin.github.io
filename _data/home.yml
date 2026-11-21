@@ -17,7 +17,7 @@ primary_cta:
   url: /publications/
 
 contact:
-  rev: REV 2026.09
+  rev: REV 2026.11
   portrait: /assets/img/home/portrait.jpg
   rows:
     - { label: "Dept.", value: "Cyber Security Engineering" }
@@ -55,12 +55,18 @@ thrusts:
     venues: HOST · MOST · NSF CyberTraining
 
 selected_publications:
+  - venue: DATE
+    badge: DATE '27
+    title: "CLEO: Circle FFT Acceleration on Heterogeneous Architectures for High-Throughput zkSTARKs at the Edge"
+    takeaway: Circle FFT for Circle STARKs on AMD Versal AI Engines and programmable logic. To appear.
+    year: 2027
+    url: /publications/
   - venue: DAC
     badge: DAC '26
     title: "ATTINA: Spatial Acceleration of Additive NTT for Energy-Efficient zkSNARKs at the Edge"
     takeaway: Additive number-theoretic transforms on Versal AI Engines for edge zero-knowledge proofs.
     year: 2026
-    url: https://dac.com/2026
+    url: https://doi.org/10.1145/3770743.3804075
   - venue: HOST
     badge: HOST '26
     title: "LiDAR Spoofing for Compromising SLAM on ROS 2 Using Statistical Beam Adjustment &amp; Temporal Modeling"
