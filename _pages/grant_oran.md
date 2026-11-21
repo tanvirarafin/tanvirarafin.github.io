@@ -17,7 +17,7 @@ Research focus areas:
 - **O-RAN protocol security:** Analysis of security gaps introduced by the disaggregated O-RAN interface stack
 - **Anomaly detection:** Machine learning approaches for real-time detection of abnormal radio behavior indicative of supply chain compromise
 
-This work is closely related to the [WiSec 2025 Best Poster/Demo Award](https://wisec2025.gmu.edu/awards/)-winning demonstration: *DEMO: Radio Unit Activity Fingerprinting through Electromagnetic Side-Channel Analysis in O-RAN Networks*.
+This work is closely related to the [WiSec 2025 Best Poster/Demo Award](https://wisec2025.gmu.edu/awards/)-winning demonstration: _DEMO: Radio Unit Activity Fingerprinting through Electromagnetic Side-Channel Analysis in O-RAN Networks_.
 
 ### Funding
 

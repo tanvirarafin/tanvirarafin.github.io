@@ -27,10 +27,10 @@ Research thrusts include:
 
 ### Research Team
 
-| Role | Investigator | Institution |
-|------|-------------|-------------|
+| Role       | Investigator         | Institution             |
+| ---------- | -------------------- | ----------------------- |
 | PI (Mason) | Dr. Md Tanvir Arafin | George Mason University |
-| Lead PI | Dr. Wenjie Che | Howard University |
+| Lead PI    | Dr. Wenjie Che       | Howard University       |
 
 ### Funding
 

@@ -657,7 +657,11 @@ footer.sticky-bottom {
   padding: 0.4rem 0.3rem;
   transition: opacity 0.15s;
 
-  &:hover { opacity: 0.82; text-decoration: none; color: #fff; }
+  &:hover {
+    opacity: 0.82;
+    text-decoration: none;
+    color: #fff;
+  }
 
   .venue-abbr {
     font-size: 0.9rem;
