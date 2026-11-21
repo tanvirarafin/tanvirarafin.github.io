@@ -24,9 +24,17 @@
               <img src="/assets/img/logos/venues/{{ v.logo }}" class="venue-logo-img" alt="{{ venue_abbr }}">
             </a>
           {%- else -%}
-            <a href="{{ v.url | default: '#' }}" class="venue-card" style="background-color:{{ v.color | default: '#546e7a' }}" target="_blank" rel="noopener">
+            <a
+              href="{{ v.url | default: '#' }}"
+              class="venue-card"
+              style="background-color:{{ v.color | default: '#546e7a' }}"
+              target="_blank"
+              rel="noopener"
+            >
               <span class="venue-abbr">{{ venue_abbr }}</span>
-              {%- if entry.year -%}<span class="venue-year">{{ entry.year }}</span>{%- endif -%}
+              {%- if entry.year -%}
+                <span class="venue-year">{{ entry.year }}</span>
+              {%- endif -%}
             </a>
           {%- endif -%}
         {%- else -%}
@@ -321,7 +329,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-        {% endhighlight %}
+      {% endhighlight %}
       </div>
     {% endif %}
 

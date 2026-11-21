@@ -31,11 +31,11 @@ This grant directly supports the redesign of **CYSE 465: Transportation Systems 
 
 ### Research Team
 
-| Role | Investigator | Institution |
-|------|-------------|-------------|
+| Role    | Investigator         | Institution             |
+| ------- | -------------------- | ----------------------- |
 | Lead PI | Dr. Md Tanvir Arafin | George Mason University |
-| Co-PI | Dr. Lu Gao | University of Houston |
-| Co-PI | Dr. Qian Wang | UC Merced |
+| Co-PI   | Dr. Lu Gao           | University of Houston   |
+| Co-PI   | Dr. Qian Wang        | UC Merced               |
 
 ### Funding
 

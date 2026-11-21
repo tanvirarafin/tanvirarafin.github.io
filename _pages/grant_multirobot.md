@@ -25,13 +25,13 @@ The project consists of three research thrusts:
 
 ### Research Team
 
-| Role | Investigator | Institution |
-|------|-------------|-------------|
-| PI (Mason) | Dr. Md Tanvir Arafin | George Mason University |
-| Lead PI | Dr. Kewei Sha | University of North Texas |
-| Co-PI | Dr. Bin Tang | Cal State Dominguez Hills |
-| Co-PI | Dr. Lily Ma | CUNY |
-| Co-PI | Dr. Pooyan Fazli | Arizona State University |
+| Role       | Investigator         | Institution               |
+| ---------- | -------------------- | ------------------------- |
+| PI (Mason) | Dr. Md Tanvir Arafin | George Mason University   |
+| Lead PI    | Dr. Kewei Sha        | University of North Texas |
+| Co-PI      | Dr. Bin Tang         | Cal State Dominguez Hills |
+| Co-PI      | Dr. Lily Ma          | CUNY                      |
+| Co-PI      | Dr. Pooyan Fazli     | Arizona State University  |
 
 **Partner MSIs:** University of Houston–Clear Lake · University of Michigan Flint · CUNY-New York City College of Technology · Morgan State University · San Francisco State University · California State University Dominguez Hills
 
@@ -40,6 +40,6 @@ The project consists of three research thrusts:
 **NSF Award [#2245156](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245156&HistoricalAwards=false)**
 Collaborative Research: CISE-MSI: DP: CNS: An Edge-Based Approach to Robust Multi-Robot Systems in Dynamic Environments
 Total Project Award: $600,000 &middot; Mason Share: $95,000 &middot; Period: Oct. 2022 – Aug. 2026
-*Funded in part under the American Rescue Plan Act of 2021 (Public Law 117-2).*
+_Funded in part under the American Rescue Plan Act of 2021 (Public Law 117-2)._
 
 [← Back to Grants](/grants/)

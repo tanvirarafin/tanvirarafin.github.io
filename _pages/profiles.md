@@ -52,6 +52,7 @@ nav_order: 5
         <p>Max is a Ph.D. student in the Department of Cyber Security Engineering at George Mason University. He is a member of the SPIRE Lab, advised by Prof. Arafin. His dissertation research focuses on microarchitecture-based power attacks and countermeasures. Expected graduation: Spring 2030.</p>
       </div>
     </div>
+
   </div>
 
   <div id="tab-former" class="ptab-pane">
@@ -85,6 +86,7 @@ nav_order: 5
         <p>Philip is an undergraduate student in the Computer Science Department at George Mason University and a member of the SPIRE Lab. His research interests include driverless cars, machine learning, and artificial intelligence.</p>
       </div>
     </div>
+
   </div>
 </div>
 

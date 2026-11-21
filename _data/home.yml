@@ -102,11 +102,51 @@ recognition:
 grants:
   summary: 15 projects · $10.1M
   items:
-    - { years: "2025–28", funder: "NSF SaTC", title: "SAGE: Secure Accelerators for Next-Generation Foundation Models", role: "PI", amount: "$275K share", url: /grants/sage/, active: true }
-    - { years: "2025–28", funder: "NSF CyberTraining", title: "CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy", role: "Lead PI", amount: "$200K share", url: /grants/cyberstar/, active: true }
-    - { years: "2026–29", funder: "NSF CyberAI", title: "CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education", role: "Co-PI", amount: "$200K share", url: /grants/, active: true }
-    - { years: "2025–29", funder: "NSF SFS", title: "EAGLE: CyberCorps Scholarship for Service", role: "Co-PI", amount: "$791K share", url: /grants/, active: true }
-    - { years: "2026–27", funder: "CCI · VIPA", title: "GAIA and CASPER: GPU power attacks; analog sensing for the grid", role: "PI", amount: "$100K share", url: /grants/gaia/, active: true }
+    - {
+        years: "2025–28",
+        funder: "NSF SaTC",
+        title: "SAGE: Secure Accelerators for Next-Generation Foundation Models",
+        role: "PI",
+        amount: "$275K share",
+        url: /grants/sage/,
+        active: true,
+      }
+    - {
+        years: "2025–28",
+        funder: "NSF CyberTraining",
+        title: "CyberSTAR: CyberTraining for Secure Transportation and Reliable Autonomy",
+        role: "Lead PI",
+        amount: "$200K share",
+        url: /grants/cyberstar/,
+        active: true,
+      }
+    - {
+        years: "2026–29",
+        funder: "NSF CyberAI",
+        title: "CyberAI Innovation: Modernizing IoT/Edge Cybersecurity Education",
+        role: "Co-PI",
+        amount: "$200K share",
+        url: /grants/,
+        active: true,
+      }
+    - {
+        years: "2025–29",
+        funder: "NSF SFS",
+        title: "EAGLE: CyberCorps Scholarship for Service",
+        role: "Co-PI",
+        amount: "$791K share",
+        url: /grants/,
+        active: true,
+      }
+    - {
+        years: "2026–27",
+        funder: "CCI · VIPA",
+        title: "GAIA and CASPER: GPU power attacks; analog sensing for the grid",
+        role: "PI",
+        amount: "$100K share",
+        url: /grants/gaia/,
+        active: true,
+      }
 
 lab:
   eyebrow: SPIRE Lab
