@@ -94,7 +94,7 @@ selected_publications:
 
 recognition:
   - { year: "2025", text: "Best Poster/Demo · ACM WiSec", url: "https://doi.org/10.1145/3734477.3736152" }
-  - { year: "2024", text: "Best HW Demo, 2nd · IEEE HOST", url: "http://www.hostsymposium.org/host_2024awards.php" }
+  - { year: "2024", text: "Best HW Demo, 2nd · IEEE HOST", url: "https://host.conferences.computer.org/2024/" }
   - { year: "2022", text: "Featured Paper · IEEE TC", url: "https://doi.org/10.1109/TC.2021.3049543" }
   - { year: "2018", text: "Best Paper · IEEE AsianHOST", url: "https://doi.org/10.1109/AsianHOST.2018.8607166" }
   - { year: "2017", text: "Best Paper Nominee · GLSVLSI", url: "https://doi.org/10.1145/3060403.3060455" }

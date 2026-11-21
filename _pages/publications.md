@@ -29,7 +29,7 @@ nav_order: 2
   <span class="pub-award-sep">·</span>
   <a class="pub-award-item" href="https://doi.org/10.1145/3734477.3736152" target="_blank" rel="noopener">🏅 Best Poster/Demo &mdash; ACM WiSec 2025</a>
   <span class="pub-award-sep">·</span>
-  <a class="pub-award-item" href="https://host-symposium.org" target="_blank" rel="noopener">🥈 Best Hardware Demo (2nd) &mdash; IEEE HOST 2024</a>
+  <a class="pub-award-item" href="https://host.conferences.computer.org/2024/" target="_blank" rel="noopener">🥈 Best Hardware Demo (2nd) &mdash; IEEE HOST 2024</a>
   <span class="pub-award-sep">·</span>
   <a class="pub-award-item" href="https://doi.org/10.1145/3060403.3060455" target="_blank" rel="noopener">📝 Best Paper Nominee &mdash; ACM GLSVLSI 2017</a>
   <span class="pub-award-sep">·</span>
